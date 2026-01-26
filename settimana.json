@@ -23,8 +23,8 @@
                "secondo" : "salmone agli aromi vegetali",
                "contorno" : "insalata mista" },
   "compiti" : {
-"storia":	{"comando" : "studiare gli argomenti ognuno del proprio gruppo","immagini":""}.
-	  "inglese":	{"comando" : "Finire la daily routine sul quaderno":""}	
+"storia":	{"comando" : "studiare gli argomenti ognuno del proprio gruppo","immagini":""},
+	  "inglese":	{"comando" : "Finire la daily routine sul quaderno","immagini":""}	
  }},
 "giovedì" : {"giorno"   : "29/01/2026",
   "comunicazioni"    : "Per scienze l'esperimento sulla dilatazione termica verrà descritto in classe",
@@ -44,7 +44,6 @@
  }}
 
  }
-
 
 
 
