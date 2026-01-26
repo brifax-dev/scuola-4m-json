@@ -4,9 +4,9 @@
                "secondo" : "carne",
                "contorno" : "insalata" },
   "compiti" : { "matematica" : {"comando" : "fare le operazioni",
-               "immagine" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"},
                "geografia" : {"comando" : "pagina 24",
-               "immagine" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"
                }
 				}},
 				"martedì" : {"giorno"   : "26/01/2026",
@@ -15,9 +15,10 @@
                "secondo" : "carne",
                "contorno" : "insalata" },
   "compiti" : { "matematica" : { "comando" : "fare le operazioni",
-               "immagine" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"
 				}
  }}
 
  }
+
 
