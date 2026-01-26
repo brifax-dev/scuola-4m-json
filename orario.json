@@ -1,0 +1,50 @@
+{ "lunedì" : {"8:00-9:00"   : "MATEMATICA",
+              "9:00-10:00"   : "MATEMATICA",
+              "10:00-11:00"   : "GEOGRAFIA",
+              "11:00-12:00"   : "GEOGRAFIA",
+              "12:00-13:00"   : "ARTE",
+              "13:00-14:00"   : "MENSA",
+              "14:00-15:00"   : "ITALIANO",
+              "15:00-16:00"   : "ITALIANO"
+            },
+  "martedì" : {"8:00-9:00"   : "RELIGIONE",
+              "9:00-10:00"   : "RELIGIONE",
+              "10:00-11:00"   : "ITALIANO",
+              "11:00-12:00"   : "SOLFEGGIO",
+              "12:00-13:00"   : "ITALIANO",
+              "13:00-14:00"   : "MENSA",
+              "14:00-15:00"   : "MATEMATICA",
+              "15:00-16:00"   : "MATEMATICA"
+            },
+  "mercoledì" : {"8:00-9:00"   : "INGLESE",
+              "9:00-10:00"   : "MATEMATICA",
+              "10:00-11:00"   : "MATEMATICA",
+              "11:00-12:00"   : "GEOMETRIA",
+              "12:00-13:00"   : "STRUMENTO",
+              "13:00-14:00"   : "MENSA",
+              "14:00-15:00"   : "STORIA",
+              "15:00-16:00"   : "STORIA"
+            },
+  "giovedì" : {"8:00-9:00"   : "ITALIANO",
+              "9:00-10:00"   : "ITALIANO",
+              "10:00-11:00"   : "ITALIANO",
+              "11:00-12:00"   : "SCIENZE",
+              "12:00-13:00"   : "SCIENZE",
+              "13:00-14:00"   : "MENSA",
+              "14:00-15:00"   : "MOTORIA",
+              "15:00-16:00"   : "MOTORIA"
+            },
+  "venerdì" : {"8:00-9:00"   : "MATEMATICA/ITALIANO",
+              "9:00-10:00"   : "MATEMATICA/ITALIANO",
+              "10:00-11:00"   : "INGLESE",
+              "11:00-12:00"   : "INGLESE",
+              "12:00-13:00"   : "ITALIANO",
+              "13:00-14:00"   : "MENSA",
+              "14:00-15:00"   : "ITALIANO/MATEMATICA",
+              "15:00-16:00"   : "ITALIANO/MATEMATICA"
+            }
+ }
+
+
+
+
