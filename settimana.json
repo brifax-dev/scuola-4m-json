@@ -1,0 +1,21 @@
+{ "lunedì" : {"giorno"   : "26/01/2026",
+  "comunicazioni"    : "uscita per orienteering, mettere la maglietta rinascita",
+  "menu mensa" : { "primo" : "rape",
+               "secondo" : "carne",
+               "contorno" : "insalata" },
+  "compiti" : { "matematica" : {"comando" : "fare le operazioni",
+               "immagine" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQcrrPVAsf7J8zmMxe_SEsdxIQ5bXXw7tnzbG0DpJ7Fc9EKnMc6uhDzDBJ-p-MFw8ovNerkGRMQdBT0W0KnEu7Q-lWvxdSf8sOVlOed8KxV6jCqKhxsw8K0JtdxPHqez1_T3JY9PNq&usqp=CAc"},
+               "geografia" : {"comando" : "pagina 24",
+               "immagine" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQcrrPVAsf7J8zmMxe_SEsdxIQ5bXXw7tnzbG0DpJ7Fc9EKnMc6uhDzDBJ-p-MFw8ovNerkGRMQdBT0W0KnEu7Q-lWvxdSf8sOVlOed8KxV6jCqKhxsw8K0JtdxPHqez1_T3JY9PNq&usqp=CAc"
+               }
+				}},
+				"martedì" : {"giorno"   : "26/01/2026",
+  "comunicazioni"    : "uscita per orienteering, mettere la maglietta rinascita",
+  "menu mensa" : { "primo" : "rape",
+               "secondo" : "carne",
+               "contorno" : "insalata" },
+  "compiti" : { "matematica" : { "comando" : "fare le operazioni",
+               "immagine" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQcrrPVAsf7J8zmMxe_SEsdxIQ5bXXw7tnzbG0DpJ7Fc9EKnMc6uhDzDBJ-p-MFw8ovNerkGRMQdBT0W0KnEu7Q-lWvxdSf8sOVlOed8KxV6jCqKhxsw8K0JtdxPHqez1_T3JY9PNq&usqp=CAc"
+				}
+ }}
+ }
