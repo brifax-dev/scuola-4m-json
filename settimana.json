@@ -3,7 +3,7 @@
   "menu mensa" : { "primo" : "rape",
                "secondo" : "carne",
                "contorno" : "insalata" },
-  "compiti" : { "matematica" : {"comando" : "fare le operazioni",
+  "compiti" : { "matematica" : {"comando" : "fare le operazioni che stanno scritte sul diario, 3 sottrazioni, 3 addizioni tutte con la prova mi raccomando",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"},
                "geografia" : {"comando" : "pagina 24",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"
@@ -20,5 +20,6 @@
  }}
 
  }
+
 
 
