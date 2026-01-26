@@ -1,6 +1,6 @@
 { "lunedì" : {"giorno"   : "26/01/2026",
   "comunicazioni"    : "uscita per orienteering nel centro storico dalle 8 alle 10 e 30, mettere il cappello e la maglietta rinascita sul grenbiule",
-  "menu mensa" : { "primo" : "Pasta e ricotta con o senza sugo",
+  "mensa" : { "primo" : "Pasta e ricotta con o senza sugo",
                "secondo" : "schiacciatina di verdura",
                "contorno" : "insalata" },
   "compiti" : { "matematica" : {"comando" : "fare le 6 operazioni indicate sul diario",
@@ -11,7 +11,7 @@
 				}},
 "martedì" : {"giorno"   : "27/01/2026",
   "comunicazioni"    : "",
-  "menu mensa" : { "primo" : "risotto allo zafferano",
+  "mensa" : { "primo" : "risotto allo zafferano",
                "secondo" : "schiacciatine di vitello",
                "contorno" : "spinaci all'olio" },
   "compiti" : {
@@ -19,7 +19,7 @@
  }},
 "mercoledì" : {"giorno"   : "28/01/2026",
   "comunicazioni"    : "",
-  "menu mensa" : { "primo" : "pasta al sugo",
+  "mensa" : { "primo" : "pasta al sugo",
                "secondo" : "salmone agli aromi vegetali",
                "contorno" : "insalata mista" },
   "compiti" : {
@@ -28,7 +28,7 @@
  }},
 "giovedì" : {"giorno"   : "29/01/2026",
   "comunicazioni"    : "Per scienze l'esperimento sulla dilatazione termica verrà descritto in classe",
-  "menu mensa" : { "primo" : "crema di verdure con farro",
+  "mensa" : { "primo" : "crema di verdure con farro",
                "secondo" : "straccetti croccanti di pollo",
                "contorno" : "cavolfiori" },
   "compiti" : {
@@ -36,7 +36,7 @@
  }},
 "venerdì" : {"giorno"   : "30/01/2026",
   "comunicazioni"    : "",
-  "menu mensa" : { "primo" : "ditalini in purè di fave",
+  "mensa" : { "primo" : "ditalini in purè di fave",
                "secondo" : "schiacciatine di verdure",
                "contorno" : "zucchine trifolate" },
   "compiti" : {
@@ -44,6 +44,7 @@
  }}
 
  }
+
 
 
 
