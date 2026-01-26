@@ -1,24 +1,25 @@
 { "lunedì" : {"giorno"   : "26/01/2026",
-  "comunicazioni"    : "uscita per orienteering, mettere la maglietta rinascita",
-  "menu mensa" : { "primo" : "rape",
-               "secondo" : "carne",
+  "comunicazioni"    : "uscita per orienteering nel centro storico dalle 8 alle 10 e 30, mettere il cappello e la maglietta rinascita sul grenbiule",
+  "menu mensa" : { "primo" : "Pasta e ricotta con o senza sugo",
+               "secondo" : "schiacciatina di verdura",
                "contorno" : "insalata" },
-  "compiti" : { "matematica" : {"comando" : "fare le operazioni che stanno scritte sul diario, 3 sottrazioni, 3 addizioni tutte con la prova mi raccomando",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/cropped-cropped-LOGO-FALCONE-11.png"},
-               "geografia" : {"comando" : "pagina 24",
-               "immagini" : ""
+  "compiti" : { "matematica" : {"comando" : "fare le 6 operazioni indicate sul diario",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica.jpeg"},
+               "geografia" : {"comando" : "I compiti da fare sono quelli sottolineati",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpeg"
                }
 				}},
-				"martedì" : {"giorno"   : "26/01/2026",
-  "comunicazioni"    : "uscita per orienteering, mettere la maglietta rinascita",
-  "menu mensa" : { "primo" : "rape",
-               "secondo" : "carne",
-               "contorno" : "insalata" },
+"martedì" : {"giorno"   : "27/01/2026",
+  "comunicazioni"    : "",
+  "menu mensa" : { "primo" : "risotto allo zafferano",
+               "secondo" : "schiacciatine di vitello",
+               "contorno" : "spinaci all'olio" },
   "compiti" : {
-				
+"solfeggio":	{"comando" : "studiare l’ultimo ritmo","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/compito_solfeggio.jpeg"}			
  }}
 
  }
+
 
 
 
