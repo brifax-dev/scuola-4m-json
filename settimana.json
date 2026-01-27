@@ -19,7 +19,7 @@
  }},
 "mercoledì" : {"giorno"   : "28/01/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "pasta al sugo",
+  "mensa" : { "primo" : "pasta al sugo o pesto di noci",
                "secondo" : "salmone agli aromi vegetali",
                "contorno" : "insalata mista" },
   "compiti" : {
@@ -44,6 +44,7 @@
  }}
 
  }
+
 
 
 
