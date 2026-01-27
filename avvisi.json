@@ -1,7 +1,2 @@
-{ "avviso1" : {"titolo"   : "Raccolta Quote fondocassa",
-  "descrizione"    : "nuova raccolta fondocassa di 20 euro",
-               "dataScadenza" : "30/01/2026" },
-               "avviso2" : {"titolo"   : "Raccolta Quote fondocassa",
-  "descrizione"    : "nuova raccolta fondocassa di 10 euro",
-               "dataScadenza" : "30/01/2026" }
+{ 
  }
