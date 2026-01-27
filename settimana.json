@@ -1,5 +1,5 @@
 { "lunedì" : {"giorno"   : "26/01/2026",
-  "comunicazioni"    : "uscita per orienteering nel centro storico dalle 8 alle 10 e 30, mettere il cappello e la maglietta rinascita sul grembiule",
+  "comunicazioni"    : "uscita per orienteering nel centro storico dalle 8 alle 10 e 30, mettere il cappello e la maglietta Rinascita sul grembiule",
   "mensa" : { "primo" : "Pasta e ricotta con o senza sugo",
                "secondo" : "schiacciatina di verdura",
                "contorno" : "insalata" },
@@ -44,6 +44,7 @@
  }}
 
  }
+
 
 
 
