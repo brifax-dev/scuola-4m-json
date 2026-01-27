@@ -27,12 +27,12 @@
 	  "inglese":	{"comando" : "Finire la daily routine sul quaderno","immagini":""}	
  }},
 "giovedì" : {"giorno"   : "29/01/2026",
-  "comunicazioni"    : "Per scienze l'esperimento sulla dilatazione termica verrà descritto in classe",
+  "comunicazioni"    : "Per scienze la descrizione degli esperimenti sulla dilatazione termica verrà fatta in classe",
   "mensa" : { "primo" : "crema di verdure con farro",
                "secondo" : "straccetti croccanti di pollo",
                "contorno" : "cavolfiori" },
   "compiti" : {
-			
+			"scienze":	{"comando" : "Studiare la dilatazione termica","immagini":""}	
  }},
 "venerdì" : {"giorno"   : "30/01/2026",
   "comunicazioni"    : "",
@@ -44,6 +44,7 @@
  }}
 
  }
+
 
 
 
