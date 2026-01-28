@@ -28,11 +28,11 @@
  }},
 "giovedì" : {"giorno"   : "29/01/2026",
   "comunicazioni"    : "Per scienze la descrizione degli esperimenti sulla dilatazione termica verrà fatta in classe",
-  "mensa" : { "primo" : "crema di verdure con farro",
+  "mensa" : { "primo" : "riso con crema di verdure",
                "secondo" : "straccetti croccanti di pollo",
-               "contorno" : "cavolfiori" },
+               "contorno" : "finocchi gratinati" },
   "compiti" : {
-			"scienze":	{"comando" : "Studiare la dilatazione termica","immagini":""}	
+			"scienze":	{"comando" : "Studiare la dilatazione termica","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"}	
  }},
 "venerdì" : {"giorno"   : "30/01/2026",
   "comunicazioni"    : "",
@@ -44,6 +44,7 @@
  }}
 
  }
+
 
 
 
