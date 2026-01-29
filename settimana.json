@@ -41,11 +41,12 @@
                "contorno" : "zucchine trifolate" },
   "compiti" : {
 		
-			"iyaliano":	{"comando" : "Lettura pagg. 96-97 con spiegazione orale","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura2.jpeg"}	
+			"italiano":	{"comando" : "Lettura pagg. 96-97 con spiegazione orale","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura2.jpeg"}	
  	
  }}
 
  }
+
 
 
 
