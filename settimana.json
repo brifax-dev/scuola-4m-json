@@ -10,17 +10,17 @@
 				}},
 "martedì" : {"giorno"   : "03/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pasta al pomodoro",
-               "secondo" : "Salmone gratinato",
-               "contorno" : "Insalata mista" },
+  "mensa" : { "primo" : "Zuppa arcobaleno (legumi e cereali)/Pasta e legumi",
+               "secondo" : "Schiacciatine di verdure",
+               "contorno" : "Zucchine trifolate/insalata" },
   "compiti" : {
 "solfeggio":	{"comando" : "Studiare gli esercizi n.1-2-3-4-5 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}			
  }},
 "mercoledì" : {"giorno"   : "04/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Zuppa arcobaleno (legumi e cereali)/Pasta e legumi",
-               "secondo" : "Schiacciatine di verdure",
-               "contorno" : "Zucchine trifolate/insalata" },
+  "mensa" : { "primo" : "Pasta al pomodoro",
+               "secondo" : "Salmone gratinato",
+               "contorno" : "Insalata mista" },
   "compiti" : {
 "strumento-batteria":	{"comando" : "Esecuzioni dei brani assegnati con l'aggiunta di variazioni.Esercitarsi seguendo i consigli del maestro. Per Michele 'La prima volta' dei Negramaro.","immagini":""},
 "strumento-chitarra":	{"comando" : "Filippo: pag.124. Carlo: 'Tarantella' (in particolare rigo 3 e 4 + 'Gli anni' (attenzione al Fa# e Mi). Glenda: ripetere pag.27-28-29.","immagini":""},
@@ -45,6 +45,7 @@
  }}
 
  }
+
 
 
 
