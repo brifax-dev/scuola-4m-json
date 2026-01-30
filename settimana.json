@@ -5,8 +5,9 @@
                "contorno" : "Cavolfiore/Finocchi gratinati" },
   "compiti" : { "italiano" : {"comando" : "Studiare la poesia pag.160. Lettura con attività pagg.100-101 e spiegazione orale.",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/poesia.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura2.jpeg"}
-				}, "storia" : {"comando" : "Ripetere 'I Babilonesi' per un'eventuale verifica.","immagini" : ""} 
-				},
+				, "storia" : {"comando" : "Ripetere 'I Babilonesi' per un'eventuale verifica.",
+               "immagini" : ""}
+				}},
 "martedì" : {"giorno"   : "03/02/2026",
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta al pomodoro",
@@ -44,8 +45,6 @@
  }}
 
  }
-
-
 
 
 
