@@ -1,52 +1,48 @@
-{ "lunedì" : {"giorno"   : "26/01/2026",
-  "comunicazioni"    : "uscita per orienteering nel centro storico dalle 8 alle 10 e 30, mettere il cappello e la maglietta Rinascita sul grembiule",
-  "mensa" : { "primo" : "Pasta e ricotta con o senza sugo",
-               "secondo" : "schiacciatina di verdura",
-               "contorno" : "insalata" },
-  "compiti" : { "matematica" : {"comando" : "fare le 6 operazioni indicate sul diario",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica.jpeg"},
-               "geografia" : {"comando" : "I compiti da fare sono quelli sottolineati",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpeg"
-               }
+{ "lunedì" : {"giorno"   : "02/02/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pastina in brodo vegetale",
+               "secondo" : "Straccetti croccanti di pollo",
+               "contorno" : "Cavolfiore/Finocchi gratinati" },
+  "compiti" : { "italiano" : {"comando" : "Studiare la poesia pag.160. Lettura con attività pagg.100-101 e spiegazione orale.",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/poesia.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura2.jpeg"}
 				}},
-"martedì" : {"giorno"   : "27/01/2026",
+"martedì" : {"giorno"   : "03/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "risotto allo zafferano",
-               "secondo" : "schiacciatine di vitello",
-               "contorno" : "spinaci all'olio" },
+  "mensa" : { "primo" : "Pasta al pomodoro",
+               "secondo" : "Salmone gratinato",
+               "contorno" : "Insalata mista" },
   "compiti" : {
-"solfeggio":	{"comando" : "studiare l’ultimo ritmo","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/compito_solfeggio.jpeg"}			
+"solfeggio":	{"comando" : "Studiare gli esercizi n.1-2-3-4-5 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/compito_solfeggio.jpeg"}			
  }},
-"mercoledì" : {"giorno"   : "28/01/2026",
+"mercoledì" : {"giorno"   : "04/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "pasta al sugo",
-               "secondo" : "salmone agli aromi vegetali",
-               "contorno" : "insalata mista" },
+  "mensa" : { "primo" : "Zuppa arcobaleno (legumi e cereali)/Pasta e legumi",
+               "secondo" : "Schiacciatine di verdure",
+               "contorno" : "Zucchine trifolate/insalata" },
   "compiti" : {
-"storia":	{"comando" : "studiare gli argomenti ognuno del proprio gruppo","immagini":""},
-	  "inglese":	{"comando" : "Finire la daily routine sul quaderno","immagini":""}	
+"strumento-batteria":	{"comando" : "Esecuzioni dei brani assegnati con l'aggiunta di variazioni.Esercitarsi seguendo i consigli del maestro. Per Michele 'La prima volta' dei Negramaro.","immagini":""},
+"strumento-chitarra":	{"comando" : "Filippo: pag.124. Carlo: 'Tarantella' (in particolare rigo 3 e 4 + 'Gli anni' (attenzione al Fa# e Mi). Glenda: ripetere pag.27-28-29.","immagini":""},
+"strumento-pianoforte":	{"comando" : "Sveva: studiare l'intera esecuzione di 'Arlecchino' danza a mani unite. Alida: ripassare 'Ninna nanna' e 'Il soldatino' prestando maggiore attenzione al tempo e studiare 'La danza della bambola' a mani unite. Eleonora: inviare il video dell'esecuzione assegnata alla maestra inquadrando le mani per correggere la diteggiatura. Rachele: ripassare bene 'Minuetto' a mani unite. Gaia: Ripetere 'Legare è un gioco' solfeggiando le note.","immagini":""},
+"strumento-violino":	{"comando" : "Esercitare il brano assegnato","immagini":""}
  }},
-"giovedì" : {"giorno"   : "29/01/2026",
-  "comunicazioni"    : "Per scienze la descrizione degli esperimenti sulla dilatazione termica verrà fatta in classe",
-  "mensa" : { "primo" : "riso con crema di verdure",
-               "secondo" : "straccetti croccanti di pollo",
-               "contorno" : "finocchi gratinati" },
-  "compiti" : {
-			"scienze":	{"comando" : "Studiare la dilatazione termica","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"}	
- }},
-"venerdì" : {"giorno"   : "30/01/2026",
+"giovedì" : {"giorno"   : "05/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "ditalini in purè di fave",
-               "secondo" : "schiacciatine di verdure",
-               "contorno" : "zucchine trifolate" },
+  "mensa" : { "primo" : "Risotto con cuori di carciofo",
+               "secondo" : "Hamburger di pesce",
+               "contorno" : "Carote julienne" },
   "compiti" : {
-		
-			"italiano":	{"comando" : "Lettura pagg. 96-97 con spiegazione orale","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura2.jpeg"}	
+
+ }},
+"venerdì" : {"giorno"   : "06/02/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pasta integrale e patate",
+               "secondo" : "Polpette di ceci e miglio e zucchine/Crocchette di ricotta",
+               "contorno" : "Spinaci all'olio" },
+  "compiti" : {		
  	
  }}
 
  }
-
 
 
 
