@@ -36,7 +36,7 @@
 
  }},
 "venerdì" : {"giorno"   : "06/02/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "In occasione della giornata dei calzini spaiati, si andrà a scuola indossando calzini differenti.",
   "mensa" : { "primo" : "Pasta integrale e patate",
                "secondo" : "Polpette di ceci e miglio e zucchine/Crocchette di ricotta",
                "contorno" : "Spinaci all'olio" },
@@ -45,6 +45,7 @@
  }}
 
  }
+
 
 
 
