@@ -40,11 +40,12 @@
   "mensa" : { "primo" : "Pasta integrale e patate",
                "secondo" : "Polpette di ceci e miglio e zucchine/Crocchette di ricotta",
                "contorno" : "Spinaci all'olio" },
-  "compiti" : {		
+  "compiti" : {		"italiano":	{"comando" : "Lettura pagg.104-105 con spiegazione orale","immagini":""}
  	
  }}
 
  }
+
 
 
 
