@@ -4,7 +4,7 @@
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Finocchi gratinati" },
   "compiti" : { "italiano" : {"comando" : "Lettura 'Il mistero della lavatrice stregata' sul quaderno",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg"},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpg"},
 	  "grammatica" : {"comando" : "Ripetere benissimo il modo indicativo dei verbi essere e avere (dall'armadio dei verbi), amare e parlare (dal libricino 'La coniugazione dei verbi'",
                "immagini" : ""},
 			   "geografia" : {"comando" : "Scrivere o completare e studiare sul quaderno 'Le caratteristiche delle zone climatiche dell'Italia' ricavando le informazioni da pagg.30-31",
@@ -48,6 +48,7 @@
  }}
 
  }
+
 
 
 
