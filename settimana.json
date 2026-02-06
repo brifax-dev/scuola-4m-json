@@ -4,10 +4,10 @@
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Finocchi gratinati" },
   "compiti" : { "italiano" : {"comando" : "Lettura 'Il mistero della lavatrice stregata' sul quaderno",
-               "immagini" : ""},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg"},
 	  "grammatica" : {"comando" : "Ripetere benissimo il modo indicativo dei verbi essere e avere (dall'armadio dei verbi), amare e parlare (dal libricino 'La coniugazione dei verbi'",
                "immagini" : ""},
-			   "geografia" : {"comando" : "Scrivere e studiare 'Le caratteristiche delle zone climatiche dell'Italia' ricavando le informazioni da pagg.30-31",
+			   "geografia" : {"comando" : "Scrivere o completare e studiare sul quaderno 'Le caratteristiche delle zone climatiche dell'Italia' ricavando le informazioni da pagg.30-31",
                "immagini" : ""}
 				}},
 "martedì" : {"giorno"   : "10/02/2026",
@@ -16,7 +16,7 @@
                "secondo" : "Polpette di pesce al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {
-"solfeggio":	{"comando" : "Ripetere gli esercizi n.1-2-3-4-5 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}			
+"solfeggio":	{"comando" : "Ripetere benissimo esercizio n.2 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}			
  }},
 "mercoledì" : {"giorno"   : "11/02/2026",
   "comunicazioni"    : "",
@@ -48,6 +48,7 @@
  }}
 
  }
+
 
 
 
