@@ -25,7 +25,7 @@
                "contorno" : "Insalata mista" },
   "compiti" : {"storia":	{"comando" : "Studiare la mappa degli Ittiti","immagini":""
  },
-"strumento-batteria":	{"comando" : "Contimuare ad esercitarsi sui brani individuali, seguendo i consigli del maestro.","immagini":""},
+"strumento-batteria":	{"comando" : "Continuare ad esercitarsi sui brani individuali, seguendo i consigli del maestro.","immagini":""},
 "strumento-pianoforte":	{"comando" : "Alida: ripetere I soldatini e La danza della bambola precisando gli staccati. Sveva: ripetere l'intera esecuzione di Arlecchino danza a mani unite. Rachele:ripetere Minuetto a distanza di 3^. Giorgia: eseguire Serenatella con i diesis. Gaia: eseguire Oh che bel castello a mani unite. Eleonora: eseguire la 2^pagina di Clementi a mani unite.","immagini":""},
 "strumento-violino":	{"comando" : "Esercitare il brano assegnato","immagini":""}
  }},
@@ -48,6 +48,7 @@
  }}
 
  }
+
 
 
 
