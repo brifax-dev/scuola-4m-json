@@ -3,7 +3,9 @@
   "mensa" : { "primo" : "Riso e purè di piselli",
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Finocchi gratinati" },
-  "compiti" : { "italiano" : {"comando" : "Ripetere benissimo il modo indicativo dei verbi essere e avere (dall'armadio dei verbi), amare e parlare (dal libricino 'La coniugazione dei verbi'",
+  "compiti" : { "italiano" : {"comando" : "Lettura 'Il mistero della lavatrice stregata' sul quaderno",
+               "immagini" : ""},
+	  "grammatica" : {"comando" : "Ripetere benissimo il modo indicativo dei verbi essere e avere (dall'armadio dei verbi), amare e parlare (dal libricino 'La coniugazione dei verbi'",
                "immagini" : ""},
 			   "geografia" : {"comando" : "Scrivere e studiare 'Le caratteristiche delle zone climatiche dell'Italia' ricavando le informazioni da pagg.30-31",
                "immagini" : ""}
@@ -21,7 +23,8 @@
   "mensa" : { "primo" : "Passato di verdure con miglio/riso",
                "secondo" : "Sovra coscia di pollo arrosto",
                "contorno" : "Insalata mista" },
-  "compiti" : {
+  "compiti" : {"storia":	{"comando" : "Studiare la mappa degli Ittiti","immagini":""}
+ },
 "strumento-batteria":	{"comando" : "Contimuare ad esercitarsi sui brani individuali, seguendo i consigli del maestro.","immagini":""},
 "strumento-pianoforte":	{"comando" : "Alida: ripetere I soldatini e La danza della bambola precisando gli staccati. Sveva: ripetere l'intera esecuzione di Arlecchino danza a mani unite. Rachele:ripetere Minuetto a distanza di 3^. Giorgia: eseguire Serenatella con i diesis. Gaia: eseguire Oh che bel castello a mani unite. Eleonora: eseguire la 2^pagina di Clementi a mani unite.","immagini":""},
 "strumento-violino":	{"comando" : "Esercitare il brano assegnato","immagini":""}
@@ -45,6 +48,7 @@
  }}
 
  }
+
 
 
 
