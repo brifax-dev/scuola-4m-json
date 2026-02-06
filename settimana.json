@@ -1,55 +1,50 @@
-{ "lunedì" : {"giorno"   : "02/02/2026",
-  "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pastina in brodo vegetale",
-               "secondo" : "Straccetti croccanti di pollo",
-               "contorno" : "Cavolfiore/Finocchi gratinati" },
-  "compiti" : { "italiano" : {"comando" : "Studiare la poesia pag.160. Lettura con attività pagg.100-101 e spiegazione orale.",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/poesia.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/lettura2.jpeg"}
-				, "storia" : {"comando" : "Ripetere 'I Babilonesi' per un'eventuale verifica.",
+{ "lunedì" : {"giorno"   : "09/02/2026",
+  "comunicazioni"    : "Nel laboratorio di arte verranno realizzati i simboli montessoriani e quelli di punteggiatura necessari per il vestito di Carnevale. A chi è stato assegnato il nome e l'aggettivo potrà portare anche la maglietta bianca che indosserà per decorarla.",
+  "mensa" : { "primo" : "Riso e purè di piselli",
+               "secondo" : "Schiacciatine di verdure",
+               "contorno" : "Finocchi gratinati" },
+  "compiti" : { "italiano" : {"comando" : "Ripetere benissimo il modo indicativo dei verbi essere e avere (dall'armadio dei verbi), amare e parlare (dal libricino 'La coniugazione dei verbi'",
+               "immagini" : ""},
+			   "geografia" : {"comando" : "Scrivere e studiare 'Le caratteristiche delle zone climatiche dell'Italia' ricavando le informazioni da pagg.30-31",
                "immagini" : ""}
 				}},
-"martedì" : {"giorno"   : "03/02/2026",
+"martedì" : {"giorno"   : "10/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Zuppa arcobaleno (legumi e cereali)/Pasta e legumi",
-               "secondo" : "Schiacciatine di verdure",
-               "contorno" : "Zucchine trifolate/insalata" },
+  "mensa" : { "primo" : "Cavatelli/orecchiette integrali al sugo",
+               "secondo" : "Polpette di pesce al forno",
+               "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {
-"solfeggio":	{"comando" : "Studiare gli esercizi n.1-2-3-4-5 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}			
+"solfeggio":	{"comando" : "Ripetere gli esercizi n.1-2-3-4-5 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/compito_solfeggio.jpeg"}			
  }},
-"mercoledì" : {"giorno"   : "04/02/2026",
+"mercoledì" : {"giorno"   : "11/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pasta al pomodoro",
-               "secondo" : "Salmone gratinato",
+  "mensa" : { "primo" : "Passato di verdure con miglio/riso",
+               "secondo" : "Sovra coscia di pollo arrosto",
                "contorno" : "Insalata mista" },
-  "compiti" : {"italiano":	{"comando" : "Lettura pagg.98-99 con attività","immagini":""},
-"strumento-batteria":	{"comando" : "Esecuzioni dei brani assegnati con l'aggiunta di variazioni.Esercitarsi seguendo i consigli del maestro. Per Michele 'La prima volta' dei Negramaro.","immagini":""},
-"strumento-chitarra":	{"comando" : "Filippo: pag.124. Carlo: 'Tarantella' (in particolare rigo 3 e 4 + 'Gli anni' (attenzione al Fa# e Mi). Glenda: ripetere pag.27-28-29.","immagini":""},
-"strumento-pianoforte":	{"comando" : "Sveva: studiare l'intera esecuzione di 'Arlecchino' danza a mani unite. Alida: ripassare 'Ninna nanna' e 'Il soldatino' prestando maggiore attenzione al tempo e studiare 'La danza della bambola' a mani unite. Eleonora: inviare il video dell'esecuzione assegnata alla maestra inquadrando le mani per correggere la diteggiatura. Rachele: ripassare bene 'Minuetto' a mani unite. Gaia: Ripetere 'Legare è un gioco' solfeggiando le note.","immagini":""},
+  "compiti" : {
+"strumento-batteria":	{"comando" : "Contimuare ad esercitarsi sui brani individuali, seguendo i consigli del maestro.","immagini":""},
+"strumento-pianoforte":	{"comando" : "Alida: ripetere I soldatini e La danza della bambola precisando gli staccati. Sveva: ripetere l'intera esecuzione di Arlecchino danza a mani unite. Rachele:ripetere Minuetto a distanza di 3^. Giorgia: eseguire Serenatella con i diesis. Gaia: eseguire Oh che bel castello a mani unite. Eleonora: eseguire la 2^pagina di Clementi a mani unite.","immagini":""},
 "strumento-violino":	{"comando" : "Esercitare il brano assegnato","immagini":""}
  }},
-"giovedì" : {"giorno"   : "05/02/2026",
+"giovedì" : {"giorno"   : "12/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Risotto con cuori di carciofo",
-               "secondo" : "Hamburger di pesce",
-               "contorno" : "Carote julienne" },
-  "compiti" : {
+  "mensa" : { "primo" : "Pasta e cannellini",
+               "secondo" : "Frittata con spinaci",
+               "contorno" : "Spinaci/cavolfiore all'olio" },
+  "compiti" : {"scienze" : {"comando" : "Studiare pagg.24-28, approfondire con pagg.23-33",
+               "immagini" : ""}
 
  }},
-"venerdì" : {"giorno"   : "06/02/2026",
-  "comunicazioni"    : "In occasione della giornata dei calzini spaiati, si andrà a scuola indossando calzini differenti.",
-  "mensa" : { "primo" : "Pasta integrale e patate",
-               "secondo" : "Polpette di ceci e miglio e zucchine/Crocchette di ricotta",
-               "contorno" : "Spinaci all'olio" },
-  "compiti" : {		"italiano":	{"comando" : "Lettura pagg.104-105 con spiegazione orale","immagini":""}
+"venerdì" : {"giorno"   : "13/02/2026",
+  "comunicazioni"    : "Festa di Carnevale. Indossare il vestito preparato con i simboli montessoriani e punteggiatura. Si possono portare solo stelle filanti.",
+  "mensa" : { "primo" : "Tubettini al brodetto di pesce/pasta al ragù di pesce",
+               "secondo" : "Robiola o mozzarella o ricotta",
+               "contorno" : "Carote gratinate con mandorle" },
+  "compiti" : {		
  	
  }}
 
  }
-
-
-
-
-
 
 
 
