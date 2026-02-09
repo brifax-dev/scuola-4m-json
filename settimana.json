@@ -16,7 +16,8 @@
                "secondo" : "Polpette di pesce al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {
-"solfeggio":	{"comando" : "Ripetere benissimo esercizio n.2 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}			
+"solfeggio":	{"comando" : "Ripetere benissimo esercizio n.2 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"},"italiano":	{"comando" : "Ricava un testo dall'immagine assegnata","immagini":""
+ }			
  }},
 "mercoledì" : {"giorno"   : "11/02/2026",
   "comunicazioni"    : "",
@@ -24,7 +25,6 @@
                "secondo" : "Sovra coscia di pollo arrosto",
                "contorno" : "Insalata mista" },
   "compiti" : {"storia":	{"comando" : "Studiare la mappa degli Ittiti","immagini":""
- },"italiano":	{"comando" : "Ricava un testo dall'immagine assegnata","immagini":""
  },
 "strumento-batteria":	{"comando" : "Continuare ad esercitarsi sui brani individuali, seguendo i consigli del maestro.","immagini":""},
 "strumento-pianoforte":	{"comando" : "Alida: ripetere I soldatini e La danza della bambola precisando gli staccati. Sveva: ripetere l'intera esecuzione di Arlecchino danza a mani unite. Rachele:ripetere Minuetto a distanza di 3^. Giorgia: eseguire Serenatella con i diesis. Gaia: eseguire Oh che bel castello a mani unite. Eleonora: eseguire la 2^pagina di Clementi a mani unite.","immagini":""},
@@ -49,6 +49,7 @@
  }}
 
  }
+
 
 
 
