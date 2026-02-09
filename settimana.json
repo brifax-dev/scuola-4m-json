@@ -16,8 +16,7 @@
                "secondo" : "Polpette di pesce al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {
-"solfeggio":	{"comando" : "Ripetere benissimo esercizio n.2 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"},"italiano":	{"comando" : "Ricava un testo dall'immagine assegnata","immagini":""
- }			
+"solfeggio":	{"comando" : "Ripetere benissimo esercizio n.2 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}
  }},
 "mercoledì" : {"giorno"   : "11/02/2026",
   "comunicazioni"    : "",
@@ -49,6 +48,7 @@
  }}
 
  }
+
 
 
 
