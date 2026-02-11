@@ -31,9 +31,9 @@
  }},
 "giovedì" : {"giorno"   : "12/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pasta e cannellini",
-               "secondo" : "Frittata con spinaci",
-               "contorno" : "Spinaci/cavolfiore all'olio" },
+  "mensa" : { "primo" : "Lasagna Arlecchino (ragù di verdurine di campo e scamorza filante)",
+               "secondo" : "Patate al forno",
+               "contorno" : "Chiacchiere di Carnevale" },
   "compiti" : {"scienze" : {"comando" : "Studiare pagg.24-28, approfondire con pagg.23-33",
                "immagini" : ""}
 
@@ -48,6 +48,7 @@
  }}
 
  }
+
 
 
 
