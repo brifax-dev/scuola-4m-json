@@ -20,7 +20,7 @@
   "compiti" : {
  }},
 "giovedì" : {"giorno"   : "19/02/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Portare un portalistino con una ventina di pagine e un blocco di fogli a quadretti da raccoglitore.",
   "mensa" : { "primo" : "Antipasto di cuori di finocchi julienne/Pasta integrale e patate",
                "secondo" : "Frittata semplice",
                "contorno" : "Bietola all'olio" },
@@ -41,6 +41,7 @@
  }}
 
  }
+
 
 
 
