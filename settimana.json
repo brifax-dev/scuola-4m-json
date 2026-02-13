@@ -1,53 +1,47 @@
-{ "lunedì" : {"giorno"   : "09/02/2026",
-  "comunicazioni"    : "Nel laboratorio di arte verranno realizzati i simboli montessoriani e quelli di punteggiatura necessari per il vestito di Carnevale. A chi è stato assegnato il nome e l'aggettivo potrà portare anche la maglietta bianca che indosserà per decorarla.",
-  "mensa" : { "primo" : "Riso e purè di piselli",
-               "secondo" : "Schiacciatine di verdure",
-               "contorno" : "Finocchi gratinati" },
-  "compiti" : { "italiano" : {"comando" : "Lettura 'Il mistero della lavatrice stregata' sul quaderno",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpg"},
-	  "grammatica" : {"comando" : "Ripetere benissimo il modo indicativo dei verbi essere e avere (dall'armadio dei verbi), amare e parlare (dal libricino 'La coniugazione dei verbi').",
-               "immagini" : ""},
-			   "geografia" : {"comando" : "Scrivere o completare e studiare sul quaderno 'Le caratteristiche delle zone climatiche dell'Italia' ricavando le informazioni da pagg.30-31",
-               "immagini" : ""}
-				}},
-"martedì" : {"giorno"   : "10/02/2026",
-  "comunicazioni"    : "",
-  "mensa" : { "primo" : "Cavatelli/orecchiette integrali al sugo",
-               "secondo" : "Polpette di pesce al forno",
-               "contorno" : "Zucchine trifolate/Insalata" },
+{ "lunedì" : {"giorno"   : "16/02/2026",
+  "comunicazioni"    : "Vacanza",
+  "mensa" : { "primo" : "Grano spezzato/riso al pomodoro",
+               "secondo" : "Bocconcini di pesce gratinato alle erbe/calamaro dorato",
+               "contorno" : "Cicoria all'olio" },
   "compiti" : {
-"solfeggio":	{"comando" : "Ripetere benissimo esercizio n.2 della prima pagina del libro.","immagini":"https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpeg"}
+				}},
+"martedì" : {"giorno"   : "17/02/2026",
+  "comunicazioni"    : "Vacanza",
+  "mensa" : { "primo" : "Pasta e lenticchie",
+               "secondo" : "Schiacciatine di verdura",
+               "contorno" : "Carote julienne" },
+  "compiti" : {
  }},
-"mercoledì" : {"giorno"   : "11/02/2026",
-  "comunicazioni"    : "",
-  "mensa" : { "primo" : "Passato di verdure con miglio/riso",
-               "secondo" : "Sovra coscia di pollo arrosto",
-               "contorno" : "Insalata mista" },
-  "compiti" : {"storia":	{"comando" : "Studiare la mappa degli Ittiti","immagini":""
- },
-"strumento-batteria":	{"comando" : "Continuare ad esercitarsi sui brani individuali, seguendo i consigli del maestro.","immagini":""},
-"strumento-pianoforte":	{"comando" : "Alida: ripetere I soldatini e La danza della bambola precisando gli staccati. Sveva: ripetere l'intera esecuzione di Arlecchino danza a mani unite. Rachele:ripetere Minuetto a distanza di 3^. Giorgia: eseguire Serenatella con i diesis. Gaia: eseguire Oh che bel castello a mani unite. Eleonora: eseguire la 2^pagina di Clementi a mani unite.","immagini":""},
-"strumento-violino":	{"comando" : "Esercitare il brano assegnato","immagini":""}
+"mercoledì" : {"giorno"   : "18/02/2026",
+  "comunicazioni"    : "Vacanza",
+  "mensa" : { "primo" : "Pasta al pesto",
+               "secondo" : "Spezzatino di tacchino alla genovese",
+               "contorno" : "Spinaci" },
+  "compiti" : {
  }},
-"giovedì" : {"giorno"   : "12/02/2026",
+"giovedì" : {"giorno"   : "19/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Lasagna Arlecchino (ragù di verdurine di campo e scamorza filante)",
-               "secondo" : "Patate al forno",
-               "contorno" : "Chiacchiere di Carnevale" },
-  "compiti" : {"scienze" : {"comando" : "Studiare pagg.24-28, approfondire con pagg.23-33",
+  "mensa" : { "primo" : "Antipasto di cuori di finocchi julienne/Pasta integrale e patate",
+               "secondo" : "Frittata semplice",
+               "contorno" : "Bietola all'olio" },
+  "compiti" : {"scienze" : {"comando" : "Fare un video, singolarmente o in gruppo, di un esperimento sulle proprietà dell'acqua da mandare alla maestra.",
+               "immagini" : ""},
+	  "geometria" : {"comando" : "Completa pag.129 n.1-2, pag.130 n.2-3, pag.131 n.2-3 ",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria2.jpeg"},
+"grammatica" : {"comando" : "Ripetere i verbi.",
                "immagini" : ""}
-
  }},
-"venerdì" : {"giorno"   : "13/02/2026",
-  "comunicazioni"    : "Festa di Carnevale. Indossare il vestito preparato con i simboli montessoriani e punteggiatura. Si possono portare solo stelle filanti.",
-  "mensa" : { "primo" : "Tubettini al brodetto di pesce/pasta al ragù di pesce",
-               "secondo" : "Robiola o mozzarella o ricotta",
-               "contorno" : "Carote gratinate con mandorle" },
+"venerdì" : {"giorno"   : "20/02/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Zuppa arcobaleno/pasta al sugo",
+               "secondo" : "Platessa dorata alle erbe/ricotta o mozzarella o scamorza",
+               "contorno" : "Insalata mista con noci." },
   "compiti" : {		
  	
  }}
 
  }
+
 
 
 
