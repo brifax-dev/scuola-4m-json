@@ -31,9 +31,9 @@
 "grammatica" : {"comando" : "Ripetere i verbi. Terminare il lavoro sul quaderno dei testi.",
                "immagini" : ""}, 
 	  "italiano" : {"comando" : "Leggere la lettura sul quaderno e completare la scheda se non finita in classe.",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg"},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpg"},
 	  "matematica" : {"comando" : "Fare le operazioni sul quaderno",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpg"}
 
  }},
 "venerdì" : {"giorno"   : "20/02/2026",
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
