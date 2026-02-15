@@ -28,7 +28,7 @@
                "immagini" : ""},
 	  "geometria" : {"comando" : "Completa pag.129 n.1-2, pag.130 n.2-3, pag.131 n.2-3 ",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria2.jpeg"},
-"grammatica" : {"comando" : "Ripetere i verbi. Terminare il lavoro sul quaderno dei testi.",
+"grammatica" : {"comando" : "Ripetere i verbi.",
                "immagini" : ""}, 
 	  "italiano" : {"comando" : "Leggere la lettura sul quaderno e completare la scheda se non finita in classe.",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpg"},
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
