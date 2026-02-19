@@ -41,11 +41,13 @@
   "mensa" : { "primo" : "Pasta al sugo",
                "secondo" : "Platessa dorata alle erbe/ricotta o mozzarella o scamorza",
                "contorno" : "Insalata mista con noci." },
-  "compiti" : {		
+  "compiti" : {"italiano" : {"comando" : "Lettura pagg.104-105",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpg"}		
  	
  }}
 
  }
+
 
 
 
