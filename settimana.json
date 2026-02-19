@@ -38,7 +38,7 @@
  }},
 "venerdì" : {"giorno"   : "20/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Zuppa arcobaleno/pasta al sugo",
+  "mensa" : { "primo" : "Pasta al sugo",
                "secondo" : "Platessa dorata alle erbe/ricotta o mozzarella o scamorza",
                "contorno" : "Insalata mista con noci." },
   "compiti" : {		
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
