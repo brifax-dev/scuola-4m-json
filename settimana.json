@@ -41,12 +41,13 @@
   "mensa" : { "primo" : "Pasta al sugo",
                "secondo" : "mozzarella",
                "contorno" : "Insalata mista con noci." },
-  "compiti" : {"italiano" : {"comando" : "Lettura pagg.104-105",
+  "compiti" : {"italiano" : {"comando" : "Lettura pagg.106-107",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg"}		
  	
  }}
 
  }
+
 
 
 
