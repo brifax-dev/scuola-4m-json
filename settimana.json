@@ -41,12 +41,12 @@
   "mensa" : { "primo" : "Antipasto di catalogna/Riso con crema di carote/pizza margherita",
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Cavolfiore all'olio/Finocchi gratinati" },
-  "compiti" : {"italiano" : {"comando" : "Lettura pagg.106-107",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg"}		
+  "compiti" : {	
  	
  }}
 
  }
+
 
 
 
