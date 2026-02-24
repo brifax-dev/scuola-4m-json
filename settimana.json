@@ -22,7 +22,7 @@
                "secondo" : "Frittata",
                "contorno" : "Spinaci" },
   "compiti" : {"grammatica" : {"comando" : "Ripetere il congiuntivo del verbo essere",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/gramamtica1.jpeg"},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpeg"},
 	  "italiano" : {"comando" : "Lettura pag. 109",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg"},
 	  "inglese" : {"comando" : "Terminare la scheda sul quaderno",
@@ -50,6 +50,7 @@
  }}
 
  }
+
 
 
 
