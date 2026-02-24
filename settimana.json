@@ -12,8 +12,8 @@
 "martedì" : {"giorno"   : "24/02/2026",
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta al ragù di pesce",
-               "secondo" : "Frittata semplice",
-               "contorno" : "Spinaci al parmigiano" },
+               "secondo" : "Mozzarella",
+               "contorno" : "Insalata mista" },
   "compiti" : {
  }},
 "mercoledì" : {"giorno"   : "25/02/2026",
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
