@@ -18,9 +18,9 @@
  }},
 "mercoledì" : {"giorno"   : "25/02/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pennette al ragù vegetale/Pasta e lenticchie",
-               "secondo" : "Ricotta o mozzarella o scamorza",
-               "contorno" : "Zucchine trifolate con o senza granella di nocciole/insalata" },
+  "mensa" : { "primo" : "Pasta e lenticchie",
+               "secondo" : "Frittata",
+               "contorno" : "Spinaci" },
   "compiti" : {"inglese" : {"comando" : "Terminare la scheda sul quaderno",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpg"},
 	  "strumento-pianoforte" : {"comando" : "Gaia:studiare Scherzetto a mani unite.Rachele:ripassare Minuetto a mani unite.Giorgia:studiare il 1°rigo del 3° tempo da Clementi. Sveva: studiare tutta la pagina di Arlecchino danza a mani unite e più veloce.Alida:studiare il Raccontino della nonna,prima a mani separate e poi a mani unite.",
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
