@@ -45,11 +45,13 @@
   "mensa" : { "primo" : "Antipasto di catalogna/Riso con crema di carote/pizza margherita",
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Cavolfiore all'olio/Finocchi gratinati" },
-  "compiti" : {	
+  "compiti" : {	 "storia" : {"comando" : "Studiare bene gli Assiri tramite le due pagine di storia assegnate e ripetendo con la canzone su questo link: https://www.youtube.com/watch?v=mYKDNG8_dPY.",
+               "immagini" : ""}
  	
  }}
 
  }
+
 
 
 
