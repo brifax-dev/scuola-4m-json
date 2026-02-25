@@ -33,7 +33,7 @@
                "immagini" : ""}
  }},
 "giovedì" : {"giorno"   : "26/02/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Oggi sarà dedicata un'ora per frequentare il corso di scacchi",
   "mensa" : { "primo" : "Pasta al pesto",
                "secondo" : "Bocconcini di pollo",
                "contorno" : "Insalata mista" },
@@ -51,6 +51,7 @@
  }}
 
  }
+
 
 
 
