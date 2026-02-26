@@ -46,11 +46,12 @@
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Cavolfiore all'olio/Finocchi gratinati" },
   "compiti" : {	 "storia" : {"comando" : "Studiare bene gli Assiri tramite le due pagine di storia assegnate e ripetendo con la canzone su questo link: https://www.youtube.com/watch?v=mYKDNG8_dPY.",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia2.jpeg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia2.jpg"}
  	
  }}
 
  }
+
 
 
 
