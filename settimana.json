@@ -10,11 +10,12 @@
                "immagini" : ""}
 				}},
 "martedì" : {"giorno"   : "03/03/2026",
-  "comunicazioni"    : "Non si va a scuola per interruzione della corrente elettrica. Da ufficializzare.",
+  "comunicazioni"    : "Non si va a scuola per interruzione della corrente elettrica.",
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Salmone gratinato",
                "contorno" : "Insalata mista" },
-  "compiti" : {
+  "compiti" : {"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
+               "immagini" : ""},
  }},
 "mercoledì" : {"giorno"   : "04/03/2026",
   "comunicazioni"    : "",
@@ -22,6 +23,7 @@
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {"storia" : {"comando" : "Pagg. 135-136-137",
+               "immagini" : ""},"inglese" : {"comando" : "Terminare sul quaderno il lavoro iniziato in classe.",
                "immagini" : ""},
 	  "geografia" : {"comando" : "Rispondere alle domande cercando le informazioni a pagg.42-43 del libro",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg"},
@@ -50,6 +52,7 @@
  }}
 
  }
+
 
 
 
