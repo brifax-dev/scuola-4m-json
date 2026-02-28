@@ -7,7 +7,7 @@
 	  "italiano" : {"comando" : "Ripetere lettura pag.198 con spiegazione orale",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpg"},
 	  "grammatica" : {"comando" : "Esercizi n.2-3 di pag. 204. Esercizio n.2 di pag.205 e dopo averlo completato analizza i verbi sul quaderno.",
-               "immagini" : ""}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica2.jpg"}
 				}},
 "martedì" : {"giorno"   : "03/03/2026",
   "comunicazioni"    : "Non si va a scuola per interruzione della corrente elettrica.",
@@ -52,6 +52,7 @@
  }}
 
  }
+
 
 
 
