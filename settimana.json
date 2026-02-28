@@ -23,10 +23,10 @@
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {"storia" : {"comando" : "Pagg. 135-136-137",
-               "immagini" : ""},"inglese" : {"comando" : "Terminare sul quaderno il lavoro iniziato in classe.",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia3.jpg"},"inglese" : {"comando" : "Terminare sul quaderno il lavoro iniziato in classe.",
                "immagini" : ""},
 	  "geografia" : {"comando" : "Rispondere alle domande cercando le informazioni a pagg.42-43 del libro",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg"},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpg"},
 	  "strumento-pianoforte" : {"comando" : "Gaia: studiare Osserva la diteggiatura in chiave di violino pag.92 a mani unite.Sveva: ripassare Arlecchino danza a mani unite.Giorgia: ripassare il 3°tempo con più precisione.Alida:ripassare I soldatini e La danza della bambola con precisione.Eleonora: studiare bene i passaggi tecnici della Suonatina n.2.Rachele: ripassare l'ultimo compito assegnato.",
                "immagini" : ""},
 	  "strumento-batteria" : {"comando" : "Esecuzione individuale dei brani per il saggio. Per casa: continuare ad esercitarsi mettendo in pratica i consigli e le modifiche apportate in classe con il maestro",
@@ -52,6 +52,7 @@
  }}
 
  }
+
 
 
 
