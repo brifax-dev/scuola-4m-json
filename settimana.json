@@ -15,7 +15,7 @@
                "secondo" : "Salmone gratinato",
                "contorno" : "Insalata mista" },
   "compiti" : {"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
-               "immagini" : ""},
+               "immagini" : ""}
  }},
 "mercoledì" : {"giorno"   : "04/03/2026",
   "comunicazioni"    : "",
@@ -52,6 +52,7 @@
  }}
 
  }
+
 
 
 
