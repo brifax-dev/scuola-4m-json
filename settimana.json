@@ -22,7 +22,10 @@
   "mensa" : { "primo" : "Pasta e legumi",
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Zucchine trifolate/Insalata" },
-  "compiti" : {"storia" : {"comando" : "Pagg. 135-136-137",
+  "compiti" : {"grammatica" : {"comando" : "Esercizio n.1 di pag. 204. Esercizio n.3 di pag.205, Esercizi n-1-2-3 di pag. 206, Esercizi n-1-2-3 di pag. 207",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica3.jpg,,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica4.jpg"}
+				},
+		"storia" : {"comando" : "Pagg. 135-136-137",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia3.jpg"},"inglese" : {"comando" : "Terminare sul quaderno il lavoro iniziato in classe.",
                "immagini" : ""},
 	  "geografia" : {"comando" : "Rispondere alle domande cercando le informazioni a pagg.42-43 del libro",
@@ -52,6 +55,7 @@
  }}
 
  }
+
 
 
 
