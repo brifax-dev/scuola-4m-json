@@ -22,7 +22,8 @@
   "mensa" : { "primo" : "Pasta e legumi",
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Zucchine trifolate/Insalata" },
-  "compiti" : {"grammatica" : {"comando" : "Esercizio n.1 di pag. 204. Esercizio n.3 di pag.205, Esercizi n-1-2-3 di pag. 206, Esercizi n-1-2-3 di pag. 207",
+  "compiti" : {"italiano" : {"comando" : "Ripetere lettura pag.198 con spiegazione orale",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpg"},"grammatica" : {"comando" : "Esercizio n.1 di pag. 204. Esercizio n.3 di pag.205, Esercizi n-1-2-3 di pag. 206, Esercizi n-1-2-3 di pag. 207",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica3.jpg,,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica4.jpg"
 				},
 		"storia" : {"comando" : "Pagg. 135-136-137",
@@ -55,6 +56,7 @@
  }}
 
  }
+
 
 
 
