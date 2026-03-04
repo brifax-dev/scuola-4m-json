@@ -39,7 +39,7 @@
                "immagini" : ""}
  }},
 "giovedì" : {"giorno"   : "05/03/2026",
-  "comunicazioni"    : "Dalle 10 alle 13 sono convocati a scuola in aula magna il nonno di Sveva, la nonna di Elisa e la nonna di Mariarita nell'ambito dell'uscita al museo delle tabacchine a Campi di lunedì.",
+  "comunicazioni"    : "Alle 11:30 sono convocati a scuola in aula magna il nonno di Sveva, la nonna di Elisa e la nonna di Mariarita nell'ambito dell'uscita al museo delle tabacchine a Campi di lunedì.",
   "mensa" : { "primo" : "Risotto con cuori di carciofo",
                "secondo" : "Hamburger di pesce",
                "contorno" : "Carote julienne" },
@@ -56,6 +56,7 @@
  }}
 
  }
+
 
 
 
