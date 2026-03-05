@@ -47,7 +47,7 @@
 
  }},
 "venerdì" : {"giorno"   : "06/03/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Consegnare l'autorizzazione firmata per l'uscita didattica del 9 marzo.",
   "mensa" : { "primo" : "Pasta integrale e patate",
                "secondo" : "Polpette di ceci, miglio e zucchine/crocchette di ricotta",
                "contorno" : "Spinaci all'olio." },
@@ -56,6 +56,7 @@
  }}
 
  }
+
 
 
 
