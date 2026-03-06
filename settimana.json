@@ -1,61 +1,49 @@
-{ "lunedì" : {"giorno"   : "02/03/2026",
-  "comunicazioni"    : "Uscita didattica a Nardò per assistere ad una rappresentazione teatrale. Partenza alle 9:30 da scuola con l'autobus, ritorno alle 12.",
-  "mensa" : { "primo" : "Pastina in brodo vegetale",
-               "secondo" : "Braccetti croccanti di pollo",
-               "contorno" : "Cavolfiore/Finocchi gratinati" },
-  "compiti" : {
-	  "italiano" : {"comando" : "Ripetere lettura pag.198 con spiegazione orale",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpg"},
-	  "grammatica" : {"comando" : "Esercizi n.2-3 di pag. 204. Esercizio n.2 di pag.205 e dopo averlo completato analizza i verbi sul quaderno.",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica2.jpg"}
-				}},
-"martedì" : {"giorno"   : "03/03/2026",
-  "comunicazioni"    : "Non si va a scuola per interruzione della corrente elettrica.",
-  "mensa" : { "primo" : "Pasta al pomodoro",
-               "secondo" : "Salmone gratinato",
-               "contorno" : "Insalata mista" },
-  "compiti" : {"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"}
- }},
-"mercoledì" : {"giorno"   : "04/03/2026",
-  "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pasta e legumi",
+{ "lunedì" : {"giorno"   : "09/03/2026",
+  "comunicazioni"    : "Uscita didattica a al museo delle Tabacchine a Campi Salentina e alla fontana dell'Armonia a Lecce. Partenza alle 8:15.Mettere l'assenza per la mensa.",
+  "mensa" : { "primo" : "Riso e purè di piselli",
                "secondo" : "Schiacciatine di verdure",
+               "contorno" : "Finocchi gratinati" },
+  "compiti" : {
+	 
+				}},
+"martedì" : {"giorno"   : "10/03/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Cavatelli/orecchiette integrali al sugo",
+               "secondo" : "Polpette di pesce al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
-  "compiti" : {"italiano" : {"comando" : "Ripetere lettura pag.198 con spiegazione orale",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpg"},"grammatica" : {"comando" : "Esercizio n.1 di pag. 204. Esercizio n.3 di pag.205, Esercizi n-1-2-3 di pag. 206, Esercizi n-1-2-3 di pag. 207",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica3.jpg,,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica4.jpg"
-				},
-		"storia" : {"comando" : "Pagg. 135-136-137",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia3.jpg"},"inglese" : {"comando" : "Terminare sul quaderno il lavoro iniziato in classe.",
-               "immagini" : ""},
-	  "geografia" : {"comando" : "Rispondere alle domande cercando le informazioni a pagg.42-43 del libro",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpg"},
-	  "strumento-pianoforte" : {"comando" : "Gaia: studiare Osserva la diteggiatura in chiave di violino pag.92 a mani unite.Sveva: ripassare Arlecchino danza a mani unite.Giorgia: ripassare il 3°tempo con più precisione.Alida:ripassare I soldatini e La danza della bambola con precisione.Eleonora: studiare bene i passaggi tecnici della Suonatina n.2.Rachele: ripassare l'ultimo compito assegnato.",
-               "immagini" : ""},
-	  "strumento-batteria" : {"comando" : "Esecuzione individuale dei brani per il saggio. Per casa: continuare ad esercitarsi mettendo in pratica i consigli e le modifiche apportate in classe con il maestro",
-               "immagini" : ""},
-	  "strumento-chitarra" : {"comando" : "Adelina: Leyenda. Aida: pag.35. Glenda e Greta: pag.37. Filippo: pag.52. Carloalberto: Tarantella + Limbo.",
+  "compiti" : {"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"},
+	  "matenatica" : {"comando" : "Fare le operazioni sul quaderno e le due schede",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica3.jpeg"}
+ }},
+"mercoledì" : {"giorno"   : "11/03/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Passato di verdure con riso",
+               "secondo" : "Sovracoscia di pollo arrosto",
+               "contorno" : "Insalata mista" },
+  "compiti" : {"inglese" : {"comando" : "Finire sul quaderno gli esercizi sul verbo essere",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese3.jpg"},"strumento-batteria" : {"comando" : "Continuare ad esercitarsi sui brani individuali",
                "immagini" : ""}
  }},
-"giovedì" : {"giorno"   : "05/03/2026",
-  "comunicazioni"    : "Alle 11:30 sono convocati a scuola in aula magna il nonno di Sveva, la nonna di Elisa e la nonna di Mariarita nell'ambito dell'uscita al museo delle tabacchine a Campi di lunedì.",
-  "mensa" : { "primo" : "Risotto con cuori di carciofo",
-               "secondo" : "Hamburger di pesce",
-               "contorno" : "Carote julienne" },
+"giovedì" : {"giorno"   : "12/03/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pasta e cannellini",
+               "secondo" : "Frittata con spinaci",
+               "contorno" : "Spinaci/cavolfiore all'olio" },
   "compiti" : {
 
  }},
-"venerdì" : {"giorno"   : "06/03/2026",
-  "comunicazioni"    : "Consegnare l'autorizzazione firmata per l'uscita didattica del 9 marzo.",
-  "mensa" : { "primo" : "Pasta integrale e patate",
-               "secondo" : "Polpette di ceci, miglio e zucchine/crocchette di ricotta",
-               "contorno" : "Spinaci all'olio." },
-  "compiti" : {	
- 	
+"venerdì" : {"giorno"   : "13/03/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pasta al ragù di pesce",
+               "secondo" : "Robiola o mozzarella o ricotta",
+               "contorno" : "Carote gratinate con mandorle" },
+  "compiti" : {	"geografia" : {"comando" : "Studiare pagg.44-45 approfondendo con le pagine aggiuntive",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia4.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia5.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia6.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia7.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia8.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia9.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia10.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia11.jpeg"}
  }}
 
  }
+
 
 
 
