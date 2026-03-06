@@ -13,7 +13,7 @@
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"},
-	  "matenatica" : {"comando" : "Fare le operazioni sul quaderno e le due schede",
+	  "matematica" : {"comando" : "Fare le operazioni sul quaderno e le due schede",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica3.jpeg"}
  }},
 "mercoledì" : {"giorno"   : "11/03/2026",
@@ -43,6 +43,7 @@
  }}
 
  }
+
 
 
 
