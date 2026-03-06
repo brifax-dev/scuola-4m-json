@@ -1,5 +1,5 @@
 { "lunedì" : {"giorno"   : "09/03/2026",
-  "comunicazioni"    : "Uscita didattica a al museo delle Tabacchine a Campi Salentina e alla fontana dell'Armonia a Lecce. Partenza alle 8:15.Mettere l'assenza per la mensa.",
+  "comunicazioni"    : "Uscita didattica al museo delle Tabacchine a Campi Salentina e alla fontana dell'Armonia a Lecce. Partenza alle 8:15.Mettere l'assenza per la mensa.",
   "mensa" : { "primo" : "Riso e purè di piselli",
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Finocchi gratinati" },
@@ -43,6 +43,7 @@
  }}
 
  }
+
 
 
 
