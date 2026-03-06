@@ -11,7 +11,8 @@
   "mensa" : { "primo" : "Cavatelli/orecchiette integrali al sugo",
                "secondo" : "Polpette di pesce al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
-  "compiti" : {"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
+  "compiti" : {"italiano" : {"comando" : "Lettura pag.74",
+               "immagini" : ""},"solfeggio" : {"comando" : "Pag.2 esercizi n.7-9",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"},
 	  "matematica" : {"comando" : "Fare le operazioni sul quaderno e le due schede",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica3.jpeg"}
@@ -38,11 +39,13 @@
   "mensa" : { "primo" : "Pasta al ragù di pesce",
                "secondo" : "Robiola o mozzarella o ricotta",
                "contorno" : "Carote gratinate con mandorle" },
-  "compiti" : {	"geografia" : {"comando" : "Studiare pagg.44-45 approfondendo con le pagine aggiuntive",
+  "compiti" : {	"storia" : {"comando" : "Rispondere alle domande leggendo pag.54",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia3.jpg"},"geografia" : {"comando" : "Studiare pagg.44-45 approfondendo con le pagine aggiuntive",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia4.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia5.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia6.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia7.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia8.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia9.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia10.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia11.jpeg"}
  }}
 
  }
+
 
 
 
