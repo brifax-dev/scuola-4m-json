@@ -27,7 +27,7 @@
                "immagini" : ""}
  }},
 "giovedì" : {"giorno"   : "12/03/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Lezione di scacchi",
   "mensa" : { "primo" : "Pasta e cannellini",
                "secondo" : "Frittata con spinaci",
                "contorno" : "Spinaci/cavolfiore all'olio" },
@@ -45,6 +45,7 @@
  }}
 
  }
+
 
 
 
