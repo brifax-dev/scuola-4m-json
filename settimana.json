@@ -22,7 +22,7 @@
   "mensa" : { "primo" : "Passato di verdure con riso",
                "secondo" : "Sovracoscia di pollo arrosto",
                "contorno" : "Insalata mista" },
-  "compiti" : {{"italiano" : {"comando" : "Lettura pag.76 con attività",
+  "compiti" : {"italiano" : {"comando" : "Lettura pag.76 con attività",
                "immagini" : ""},"inglese" : {"comando" : "Finire sul quaderno gli esercizi sul verbo essere",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese3.jpg"},"strumento-batteria" : {"comando" : "Continuare ad esercitarsi sui brani individuali",
                "immagini" : ""}
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
