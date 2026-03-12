@@ -36,7 +36,7 @@
 
  }},
 "venerdì" : {"giorno"   : "13/03/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "racchette di classe, indossare il grembiule",
   "mensa" : { "primo" : "Pasta al ragù di pesce",
                "secondo" : "Robiola o mozzarella o ricotta",
                "contorno" : "Carote gratinate con mandorle" },
@@ -46,6 +46,7 @@
  }}
 
  }
+
 
 
 
