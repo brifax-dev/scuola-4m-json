@@ -44,7 +44,7 @@
   "mensa" : { "primo" : "Pasta al sugo",
                "secondo" : "Platessa dorata alle erbe/ricotta o mozzarella o scamorza",
                "contorno" : "Insalata mista con noci" },
-  "compiti" : {	"storia" : {"comando" : "Stduiare sul quaderno e pag.59",
+  "compiti" : {	"storia" : {"comando" : "Studiare sul quaderno e pag.59",
                "immagini" : ""},"geografia" : {"comando" : "Studiare pagg.64-65 e descrivere le caratteristiche dei fiumi italiani sul quaderno",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpg"}
  }}
