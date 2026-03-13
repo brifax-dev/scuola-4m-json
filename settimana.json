@@ -6,7 +6,7 @@
   "compiti" : {"grammatica" : {"comando" : "Esercizi pag.178",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpg"},
 	  "italiano" : {"comando" : "Imparare la poesia",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/poesia,jpg.jpg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/poesia.jpg"}
 	 
 				}},
 "martedì" : {"giorno"   : "17/03/2026",
