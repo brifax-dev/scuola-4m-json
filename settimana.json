@@ -15,7 +15,7 @@
                "secondo" : "Schiacciatine di verdura",
                "contorno" : "Carote julienne" },
   "compiti" : {"italiano" : {"comando" : "Lettura sul quaderno con spiegazione orale",
-               "immagini" : "","solfeggio" : {"comando" : "Pag.3 esercizi n.10-12",
+               "immagini" : ""},"solfeggio" : {"comando" : "Pag.3 esercizi n.10-12",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
   }},
 "mercoledì" : {"giorno"   : "18/03/2026",
@@ -24,7 +24,7 @@
                "secondo" : "Spezzatino di tacchino alla genovese",
                "contorno" : "Spinaci" },
   "compiti" : {"scienze" : {"comando" : "Studiare pag.30-31",
-               "immagini" : "","inglese" : {"comando" : "Terminare gli esercizi",
+               "immagini" : ""},"inglese" : {"comando" : "Terminare gli esercizi",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese3.jpg"},
 	  "strumento-batteria" : {"comando" : "Continuare ad esercitarci, apportando le modifiche consigliate dal maestro",
                "immagini" : ""},
