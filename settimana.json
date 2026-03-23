@@ -18,7 +18,9 @@
                "secondo" : "Frittata semplice",
                "contorno" : "Spinaci al parmigiano" },
   "compiti" : {"solfeggio" : {"comando" : "Pag.3 esercizio n.12",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"},
+	  "italiano" : {"comando" : "Lettura pag.79 con attività",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpg"}
   }},
 "mercoledì" : {"giorno"   : "25/03/2026",
   "comunicazioni"    : "Portare storia",
@@ -47,8 +49,8 @@
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Cavolfiore all'olio/Finocchi gratinati" },
   "compiti" : {	
-	   "storia" : {"comando" : "Studiare pag.55 arricchendo con le informazioni del video e della canzone.",
-               "immagini" : ""}
+	   "storia" : {"comando" : "Studiare pag.55 arricchendo con le informazioni del video e della canzone. Link della canzone: https://youtu.be/6nRyRpv9L2A?is=49WXoOea2DwSkT3A. Link del video: https://www.youtube.com/watch?v=6nRyRpv9L2A",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg"}
   }}
 
  }
