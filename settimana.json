@@ -21,7 +21,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
   }},
 "mercoledì" : {"giorno"   : "25/03/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Portare storia",
   "mensa" : { "primo" : "Pennette al ragù vegetale/Pasta e lenticchie",
                "secondo" : "Ricotta o mozzarella o scamorza",
                "contorno" : "Zucchine trifolate con o senza granella di nocciola/insalata" },
@@ -47,6 +47,8 @@
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Cavolfiore all'olio/Finocchi gratinati" },
   "compiti" : {	
+	   "storia" : {"comando" : "Studiare pag.55 arricchendo con le informazioni del video e della canzone (https://youtu.be/Rmnog4x3Kq4?si=lmyjaBrySaHguCI1).",
+               "immagini" : ""}
   }}
 
  }
