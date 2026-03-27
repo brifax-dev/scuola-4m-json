@@ -23,7 +23,8 @@
   "mensa" : { "primo" : "Pasta al sugo",
                "secondo" : "Salmone agli aromi vegetali",
                "contorno" : "Insalata mista" },
-  "compiti" : {
+  "compiti" : {"inglese" : {"comando" : "Terminare la scheda",
+               "immagini" : ""}
  }},
 "giovedì" : {"giorno"   : "02/04/2026",
   "comunicazioni"    : "Vacanza",
