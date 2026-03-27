@@ -4,7 +4,7 @@
                "secondo" : "Schiacciatina di verdure/ricotta o mozzarella o scamorza",
                "contorno" : "insalata" },
   "compiti" : {"geometria" : {"comando" : "Studiare sul quaderno i quadrilateri",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpg"},
+               "immagini" : ""},
 	  "italiano" : {"comando" : "Imparare la poesia di Pasqua",
                "immagini" : ""},
 	  "grammatica" : {"comando" : "Imparare il modo congiuntivo del verbo parlare.",
@@ -39,8 +39,6 @@
                "secondo" : "Schiacciatine di verdure",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" : {	
-	   "storia" : {"comando" : "Studiare pag.55 arricchendo con le informazioni del video e della canzone. Link della canzone: https://youtu.be/6nRyRpv9L2A?is=49WXoOea2DwSkT3A. Link del video: https://www.youtube.com/watch?v=6nRyRpv9L2A",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpg"}
   }}
 
  }
