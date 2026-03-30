@@ -1,7 +1,7 @@
 { "lunedì" : {"giorno"   : "30/03/2026",
   "comunicazioni"    : "Portare storia",
   "mensa" : { "primo" : "Pasta e lenticchie",
-               "secondo" : "Schiacciatina di verdure/ricotta o mozzarella o scamorza",
+               "secondo" : "Sovracosce di pollo",
                "contorno" : "insalata" },
   "compiti" : {"geometria" : {"comando" : "Studiare sul quaderno i quadrilateri",
                "immagini" : ""},
@@ -21,7 +21,7 @@
 "mercoledì" : {"giorno"   : "01/04/2026",
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta al sugo",
-               "secondo" : "Salmone agli aromi vegetali",
+               "secondo" : "Schiacciatina di verdure",
                "contorno" : "Insalata mista" },
   "compiti" : {"inglese" : {"comando" : "Terminare la scheda",
                "immagini" : ""}
