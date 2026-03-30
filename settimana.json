@@ -15,7 +15,8 @@
   "mensa" : { "primo" : "Pizza margherita",
                "secondo" : "Ciuffi di ricotta",
                "contorno" : "Spinaci all'olio" },
-  "compiti" : {"solfeggio" : {"comando" : "Pag.3 esercizio n.13",
+  "compiti" : {"italiano" : {"comando" : "Lettura pag.85 con attività",
+               "immagini" : ""},"solfeggio" : {"comando" : "Pag.3 esercizio n.13",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
   }},
 "mercoledì" : {"giorno"   : "01/04/2026",
