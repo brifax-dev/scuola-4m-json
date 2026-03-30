@@ -12,8 +12,8 @@
   }},
 "martedì" : {"giorno"   : "31/03/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pizza/Risotto allo zafferano",
-               "secondo" : "Straccetti di vitello con o senza rucola e scaglie di parmigiano",
+  "mensa" : { "primo" : "Pizza margherita",
+               "secondo" : "Ciuffi di ricotta",
                "contorno" : "Spinaci all'olio" },
   "compiti" : {"solfeggio" : {"comando" : "Pag.3 esercizio n.13",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
