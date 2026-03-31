@@ -20,7 +20,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
   }},
 "mercoledì" : {"giorno"   : "01/04/2026",
-  "comunicazioni"    : "Si esce alle 13 senza mensa",
+  "comunicazioni"    : "Chiusura scuole per allerta meteo",
   "mensa" : { "primo" : "Pasta al sugo",
                "secondo" : "Schiacciatina di verdure",
                "contorno" : "Insalata mista" },
