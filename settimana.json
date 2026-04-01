@@ -10,7 +10,7 @@
   "mensa" : { "primo" : "Pasta al pomodoro fresco",
                "secondo" : "Platessa dorata agli aromi",
                "contorno" : "Barbabietola all'olio/Insalata mista" },
-  "compiti" : {"solfeggio" : {"comando" : "Pag.3 esercizio n.16-18",
+  "compiti" : {"solfeggio" : {"comando" : "Pag.26 esercizio n.16-18",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio.jpg"}
   }},
 "mercoledì" : {"giorno"   : "08/04/2026",
