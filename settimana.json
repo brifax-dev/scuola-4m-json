@@ -19,7 +19,8 @@
   "mensa" : { "primo" : "Pasta al pomodoro e melanzane",
                "secondo" : "Caciottina o scamorza fresca",
                "contorno" : "Pisellini all'olio" },
-  "compiti" :{
+  "compiti" :{"inglese" : {"comando" : "Studiare il present simple sul quaderno",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpg"}
  }},
 "giovedì" : {"giorno"   : "16/04/2026",
   "comunicazioni"    : "",
