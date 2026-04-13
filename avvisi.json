@@ -1,6 +1,10 @@
-{ "avviso2":
-        {"titolo":"Prevenzione a scuola",
-        "descrizione":"Gentili genitori, vi ricordiamo l’importanza di fare prevenzione sempre. La pediculosi non è legata alla mancanza di igiene, ma è un fenomeno frequente tra i bambini, favorito anche dal nostro clima, soprattutto nei periodi più umidi.Vi invitiamo pertanto a controllare regolarmente la testa dei vostri bambini per individuare tempestivamente l’eventuale presenza di pidocchi o lendini. In caso di riscontro positivo, vi chiediamo di avviare il trattamento specifico e mantenere la calma! Grazie per la collaborazione.",
-        "dataScadenza":""
+{ "avviso1":
+        {"titolo":"Incontro scuola famiglia",
+        "descrizione":"Presso il plesso di Scuola Primaria Don Bosco dalle ore 17 alle ore 19 si svolgeranno gli incontri scuola famiglia al Primp Piano in 4 D.",
+        "dataScadenza":"13/04/2026"
+       },"avviso2":
+        {"titolo":"Campionato di istituo di scacchi 2026",
+        "descrizione":"Siamo lieti di comunicarvi che sabato 18 aprile 2026 alle ore 9:30, presso la nostra scuola, si terrà il torneo di scacchi. L’evento rappresenta un momento particolarmente significativo: è la conclusione del corso di scacchi a cui hanno partecipato con grande entusiasmo gli alunni delle classi 3M e 4M. Durante questo percorso i bambini hanno sviluppato importanti competenze, come la capacità di concentrazione, il pensiero logico e il rispetto delle regole. Il torneo sarà un’occasione per valorizzare l’impegno, i progressi e le abilità acquisite dagli alunni, in un clima di condivisione e partecipazione. Contiamo con piacere sulla vostra presenza e su quella di chiunque desideri essere presente per rendere questo momento ancora più speciale.",
+        "dataScadenza":"18/04/2026"
        }
 }
