@@ -35,7 +35,8 @@
   "mensa" : { "primo" : "Pasta al ragù di pesce",
                "secondo" : "Crocchette di ricotta/Medaglioni di melanzane",
                "contorno" : "Insalata mista" },
-  "compiti" : {	
+  "compiti" : {	"storia" : {"comando" : "Studiare l'argomento assegnato al proprio gruppo dal quaderno (compreso il lapbook) e ricavando le informazioni anche dai video (https://www.youtube.com/watch?v=w-fY7wE63bw, https://www.youtube.com/watch?v=EWcqfviHVPk, https://www.focusjunior.it/scuola/storia/il-vero-volto-di-tutankhamon/). Per il gruppo 'Religione' studiare sia sul quaderno che sul libro a pagg. 64-65",
+               "immagini" : ""}
   }}
 
  }
