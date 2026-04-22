@@ -28,9 +28,9 @@
  }},
 "giovedì" : {"giorno"   : "23/04/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Lasagna a colori/pizza margherita",
-               "secondo" : "Frittata semplice",
-               "contorno" : "Pomodori gratinati" },
+  "mensa" : { "primo" : "pizza margherita",
+               "secondo" : "Ricotta vaccina",
+               "contorno" : "Insalata di pomodori" },
   "compiti" : {
 
  }},
