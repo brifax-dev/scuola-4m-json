@@ -1,6 +1,17 @@
-{ "avviso1":
-        {"titolo":"Campionato di istituto di scacchi 2026",
-        "descrizione":"Sabato 18 aprile 2026 alle ore 9:15, presso la nostra scuola, si terrà il torneo di scacchi. Le iscrizioni sono automatiche, si arriva a scuola alle 8 e 45. I genitori possono rimanere ad assistere. L'evento è gratuito. L’evento rappresenta un momento particolarmente significativo: è la conclusione del corso di scacchi a cui hanno partecipato con grande entusiasmo gli alunni delle classi 3M e 4M. Durante questo percorso i bambini hanno sviluppato importanti competenze, come la capacità di concentrazione, il pensiero logico e il rispetto delle regole. Il torneo sarà un’occasione per valorizzare l’impegno, i progressi e le abilità acquisite dagli alunni, in un clima di condivisione e partecipazione. Contiamo con piacere sulla vostra presenza e su quella di chiunque desideri essere presente per rendere questo momento ancora più speciale.",
-        "dataScadenza":"18/04/2026"
-       }
+{
+  "avviso1": {
+    "titolo": "SETTIMANA VELIERO",
+    "descrizione": "Lunedì 11 maggio\n• ingresso a scuola come sempre alle 8\n• alle 8:30 inizio partenza del piedibus dalla Don Bosco con la presenza anche di alcuni genitori.\n• alle 9:30 al castello a piedi (supportati sempre dal servizio piedibus) per partecipare ai seguenti laboratori:\n  • Scuola scacchi ALEKHIMA h. 10:00-11:00\n  • DIGITALE: Comando Io h. 12:00-13:00\nIl costo di ogni singolo laboratorio è di 2 €.\nI ragazzi porteranno solo la merenda e una bottiglietta d’acqua. Il pranzo a sacco sarà fornito dal servizio mensa (consisterà in due panini, yogurt e una bottiglia d’acqua).\nSi ritornerà a scuola, da dove andremo a prenderli direttamente alle 16:00.\n\nMartedì 12 maggio\n• ingresso a scuola come sempre alle 8\nCOL REMO: ECOBAND IN CORO h. 9:30\nI ragazzi si recheranno al castello a piedi dove alcuni ragazzi si esibiranno e il resto della classe assisterà allo spettacolo.\n\nMercoledì 13 maggio\nCASTELLO DI COPERTINO: STORIA DI UNA FORTEZZA\nIn occasione dell’evento i nostri ragazzi si esibiranno con canti, balli e musiche.\nLa mattina si svolgerà regolarmente lezione fino alle h. 13:45. Poi i genitori andranno a prenderli da scuola e li riporteranno al castello alle h. 14:45. Lo spettacolo inizierà alle h. 15:30 (gli orari possono subire modifiche).\nABBIGLIAMENTO\nCORO: le bambine indosseranno una gonna lunga di colore nero e una camicia bianca, i capelli saranno acconciati su stile medioevale. I bambini indosseranno leggings neri e camicia bianca.\nBALLERINE: leggings neri e maglietta bianca.",
+    "dataScadenza": "11-12-13/05/2026"
+  },
+  "avviso2": {
+    "titolo": "SAGGI DI FINE ANNO",
+    "descrizione": "• 20 MAGGIO saggio di PIANOFORTE\n• 21 MAGGIO saggio di BATTERIA\n• 22 MAGGIO saggio di VIOLINO E CHITARRA\nI saggi inizieranno tutti alle h. 17:30",
+    "dataScadenza": "20-21-22/05/2026"
+  },
+  "avviso3": {
+    "titolo": "MANIFESTAZIONE FINALE",
+    "descrizione": "Manifestazione di fine anno: 04 giugno al Parco Melissa",
+    "dataScadenza": "04/06/2026"
+  }
 }
