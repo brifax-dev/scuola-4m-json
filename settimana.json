@@ -33,7 +33,8 @@
   "mensa" : { "primo" : "Pasta carote zucchine e gamberetti",
                "secondo" : "Salmone gratinato",
                "contorno" : "Insalata mista" },
-  "compiti" : {
+  "compiti" : {"italiano" : {"comando" : "Lettura pag.150 con attività (escluso dove c'è scritto quaderno)",
+               "immagini" : ""}
   }}
 
  }
