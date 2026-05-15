@@ -4,7 +4,7 @@
                "secondo" : "Polpette di vitellone al sugo",
                "contorno" : "Zucchine trifolate con o senza nocciole/Insalata" },
   "compiti" : {	"italiano" : {"comando" : "Esercizio pag.81 del quaderno laboratorio: Inventare un animale fantastico.",
-               "immagini" : ""},"grammatica" : {"comando" : "Ripetere i verbi benissimo (essere, avere, parlare) in tutti i modi",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/refs/heads/main/italiano1.jpg"},"grammatica" : {"comando" : "Ripetere i verbi benissimo (essere, avere, parlare) in tutti i modi",
                "immagini" : ""}
   }},
 "martedì" : {"giorno"   : "19/05/2026",
