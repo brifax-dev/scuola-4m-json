@@ -3,7 +3,7 @@
   "mensa" : { "primo" : "Riso con crema di carote",
                "secondo" : "Polpette di vitellone al sugo",
                "contorno" : "Zucchine trifolate con o senza nocciole/Insalata" },
-  "compiti" : {	"italiano" : {"comando" : "Esercizio pag.81 del quaderno laboratorio: Inventare un animale fantastico.)",
+  "compiti" : {	"italiano" : {"comando" : "Esercizio pag.81 del quaderno laboratorio: Inventare un animale fantastico.",
                "immagini" : ""},"grammatica" : {"comando" : "Ripetere i verbi benissimo (essere, avere, parlare) in tutti i modi",
                "immagini" : ""}
   }},
