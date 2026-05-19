@@ -12,15 +12,15 @@
   "mensa" : { "primo" : "Pasta al pesto",
                "secondo" : "Calamaro dorato/Bocconcini di pesce gratinato alle erbe",
                "contorno" : "Insalata di pomodori e cetrioli" },
-  "compiti" : {"grammatica" : {"comando" : "Esercizi pag.74-75",
-               "immagini" : ""}
+  "compiti" : {
   }},
 "mercoledì" : {"giorno"   : "20/05/2026",
   "comunicazioni"    : "Portare storia. Violino e chitarra non faranno lezione di strumento. Saggio di pianoforte ore 17:30",
   "mensa" : { "primo" : "Pasta al pomodoro e melanzane",
                "secondo" : "Caciottina o scamorza fresca",
                "contorno" : "Pisellini all'olio" },
-  "compiti" :{
+  "compiti" :{"grammatica" : {"comando" : "Esercizi pag.74-75",
+               "immagini" : ""}
  }},
 "giovedì" : {"giorno"   : "21/05/2026",
   "comunicazioni"    : "Saggio di  batteria ore 17:00",
