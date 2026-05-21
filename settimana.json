@@ -35,8 +35,9 @@
   "comunicazioni"    : "Oggi ci sarà lezione di strumento di violino e chitarra.Saggio di violino e chitarra ore 18:00",
   "mensa" : { "primo" : "Pasta al ragù di pesce",
                "secondo" : "Crocchette di ricotta/Medaglioni di melanzane",
-               "contorno" : "Insalata mista" },
-  "compiti" : {
+               "contorno" : "Insalata di pomodori" },
+  "compiti" : {"storia" : {"comando" : "Studiare le mappe sul quaderno delle pag.104-105",
+               "immagini" : ""}
   }}
 
  }
