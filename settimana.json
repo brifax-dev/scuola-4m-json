@@ -3,7 +3,7 @@
   "mensa" : { "primo" : "Insalata di orzo/riso",
                "secondo" : "Bocconcini di pesce gratinati",
                "contorno" : "Insalata mista" },
-  "compiti" : {	"matematica" : {"comando" : "Esercizi pag.87 n.1-3, pag.214",
+  "compiti" : {	"matematica" : {"comando" : "Esercizi pag.87 n.5, pag.214 n.1-3",
                "immagini" : ""},"grammatica" : {"comando" : "Ripetere i verbi benissimo (essere, avere, parlare) in tutti i modi. Esercizi pag.77 e pag.193",
                "immagini" : ""}
   }},
