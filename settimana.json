@@ -4,9 +4,9 @@
                "secondo" : "Bocconcini di pesce gratinati",
                "contorno" : "Insalata mista" },
   "compiti" : {	"matematica" : {"comando" : "Esercizi pag.87 n.5, pag.214 n.1-3",
-               "immagini" : ""},"grammatica" : {"comando" : "Ripetere i verbi benissimo (essere, avere, parlare) in tutti i modi. Esercizi pag.77 e pag.193",
-               "immagini" : ""},"geografia" : {"comando" : "Studiare le pianure pag.54-55 e sul quaderno",
-               "immagini" : ""}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica2.jpeg"},"grammatica" : {"comando" : "Ripetere i verbi benissimo (essere, avere, parlare) in tutti i modi. Esercizi pag.77 e pag.193",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica2.jpeg"},"geografia" : {"comando" : "Studiare le pianure pag.54-55 e sul quaderno",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpeg"}
   }},
 "martedì" : {"giorno"   : "26/05/2026",
   "comunicazioni"    : "",
@@ -21,7 +21,7 @@
                "secondo" : "Schiacciatine di melanzane",
                "contorno" : "Insalata mista" },
   "compiti" :{"inglese" : {"comando" : "Esercizio pag.45 n.1",
-               "immagini" : ""}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese.jpeg"}
  }},
 "giovedì" : {"giorno"   : "28/05/2026",
   "comunicazioni"    : "",
