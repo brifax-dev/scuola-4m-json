@@ -21,7 +21,7 @@
                "secondo" : "Schiacciatine di melanzane",
                "contorno" : "Insalata mista" },
   "compiti" :{"inglese" : {"comando" : "Esercizio pag.45 n.1",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese.jpeg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"}
  }},
 "giovedì" : {"giorno"   : "28/05/2026",
   "comunicazioni"    : "",
