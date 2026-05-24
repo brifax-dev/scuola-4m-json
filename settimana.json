@@ -1,5 +1,5 @@
 { "lunedì" : {"giorno"   : "25/05/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Solo i violini porteranno lo strumento",
   "mensa" : { "primo" : "Insalata di orzo/riso",
                "secondo" : "Bocconcini di pesce gratinati",
                "contorno" : "Insalata mista" },
@@ -9,14 +9,14 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia3.jpeg"}
   }},
 "martedì" : {"giorno"   : "26/05/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Non ci sarà la lezione di solfeggio",
   "mensa" : { "primo" : "Pasta al pomodoro fresco",
                "secondo" : "Polpette di magro di cavallo",
                "contorno" : "Fagiolini all'olio" },
   "compiti" : {
   }},
 "mercoledì" : {"giorno"   : "27/05/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Non ci sarà la lezione di strumento",
   "mensa" : { "primo" : "Pasta fresca e ceci",
                "secondo" : "Schiacciatine di melanzane",
                "contorno" : "Insalata mista" },
@@ -24,7 +24,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"}
  }},
 "giovedì" : {"giorno"   : "28/05/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Oggi recupero della lezione di musica. Portare gli strumenti.",
   "mensa" : { "primo" : "Lasagna a colori/pizza margherita",
                "secondo" : "Frittata semplice",
                "contorno" : "Pomodori gratinati" },
