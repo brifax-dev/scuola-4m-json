@@ -18,7 +18,7 @@
                "secondo" : "Frittata al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" :{"inglese" : {"comando" : "Esercizi pag.54-55 n.5-6-7",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"}
  }},
 "giovedì" : {"giorno"   : "04/06/2026",
   "comunicazioni"    : "Concerto al parco Melissa",
