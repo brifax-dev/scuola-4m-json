@@ -13,13 +13,17 @@
   "compiti" : {
   }},
 "mercoledì" : {"giorno"   : "03/06/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "I pianisti devono portare le tastiere",
   "mensa" : { "primo" : "Risotto allo zafferano",
                "secondo" : "Frittata al forno",
                "contorno" : "Zucchine trifolate/Insalata" },
   "compiti" :{"inglese" : {"comando" : "Esercizi pag.54-55 n.5-6-7",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"}
- }},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"},
+"grammatica" : {"comando" : "Ripetere i verbi per verifica",
+               "immagini" : ""},
+    "storia" : {"comando" : "Ripetere i Fenici per interrogazione e verifica",
+               "immagini" : ""}
+  }},
 "giovedì" : {"giorno"   : "04/06/2026",
   "comunicazioni"    : "Concerto al parco Melissa",
   "mensa" : { "primo" : "Pasta e ragù",
