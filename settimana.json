@@ -1,42 +1,15 @@
-{ "lunedì" : {"giorno"   : "01/06/2026",
-  "comunicazioni"    : "VACANZA",
-  "mensa" : { "primo" : "Pasta e lenticchie",
-               "secondo" : "Schiacciatine di verdure",
-               "contorno" : "Fagiolini con scagliette di parmigiano" },
-  "compiti" : {
-  }},
-"martedì" : {"giorno"   : "02/06/2026",
-  "comunicazioni"    : "VACANZA",
-  "mensa" : { "primo" : "Platessa dorata agli aromi",
-               "secondo" : "Polpette di magro di cavallo",
-               "contorno" : "Barbabietola all'olio/Insalata mista" },
-  "compiti" : {
-  }},
-"mercoledì" : {"giorno"   : "03/06/2026",
-  "comunicazioni"    : "I pianisti devono portare le tastiere",
-  "mensa" : { "primo" : "Risotto allo zafferano",
-               "secondo" : "Frittata al forno",
-               "contorno" : "Zucchine trifolate/Insalata" },
-  "compiti" :{"inglese" : {"comando" : "Esercizi pag.54-55 n.5-6-7",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"},
-"grammatica" : {"comando" : "Ripetere i verbi per verifica",
-               "immagini" : ""},
-    "storia" : {"comando" : "Ripetere i Fenici per interrogazione e verifica",
-               "immagini" : ""}
-  }},
-"giovedì" : {"giorno"   : "04/06/2026",
-  "comunicazioni"    : "Concerto al parco Melissa ore 19:30, alle 19 portare i ragazzi.",
-  "mensa" : { "primo" : "Pasta e ragù",
-               "secondo" : "Polpette di melanzane",
-               "contorno" : "Insalata di pomodori e cetrioli" },
-  "compiti" : {
-
- }},
-"venerdì" : {"giorno"   : "05/06/2026",
+{ "lunedì" : {"giorno"   : "08/06/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Orecchiette al pomodoro fresco e basilico ",
-               "secondo" : "Polpettone di tacchino  ",
-               "contorno" : "Insalata di patate mista con frutta fresca e gelato" },
+  "mensa" : { "primo" : "Riso e patate",
+               "secondo" : "Schiacciatina di pesce",
+               "contorno" : "Bietola all'olio" },
+  "compiti" : {
+  }},
+"martedì" : {"giorno"   : "09/06/2026",
+  "comunicazioni"    : "Si esxce alle 12, non c'è mensa.",
+  "mensa" : { "primo" : "",
+               "secondo" : "",
+               "contorno" : "" },
   "compiti" : {
   }}
 
