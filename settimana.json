@@ -1,17 +1,4 @@
-{ "lunedì" : {"giorno"   : "08/06/2026",
-  "comunicazioni"    : "",
-  "mensa" : { "primo" : "Riso e patate",
-               "secondo" : "Schiacciatina di pesce",
-               "contorno" : "Bietola all'olio" },
-  "compiti" : {
-  }},
-"martedì" : {"giorno"   : "09/06/2026",
-  "comunicazioni"    : "Si esce alle 12, non c'è mensa.",
-  "mensa" : { "primo" : "",
-               "secondo" : "",
-               "contorno" : "" },
-  "compiti" : {
-  }}
+{ 
 
  }
 
