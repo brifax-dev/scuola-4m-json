@@ -1,69 +1,41 @@
-{ 
+{ "lunedì" : {"giorno"   : "21/09/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pasta al pomodoro",
+               "secondo" : "Calamari a straccetti panati",
+               "contorno" : "Insalata di pomodori" },
+  "compiti" : { "italiano" : {"comando" : "Descrivere il mio momento inatteso sul quaderno",
+               "immagini" : ""https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg"}
+				}},
+"martedì" : {"giorno"   : "22/09/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Riso con carote e zucchine o",
+               "secondo" : "Polpette di magro di cavallo",
+               "contorno" : "Fagiolini all'olio" },
+  "compiti" : {},
+"mercoledì" : {"giorno"   : "23/09/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pasta fresca e ceci",
+               "secondo" : "Schiacciatine di melanzane",
+               "contorno" : "Insalata mista" },
+  "compiti" : {},
+"giovedì" : {"giorno"   : "24/09/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Pizza margherita",
+               "secondo" : "Robiola o mozzarella",
+               "contorno" : "Insalata di pomodori e caroselli" },
+  "compiti" : {
+
+ }},
+"venerdì" : {"giorno"   : "25/09/2026",
+  "comunicazioni"    : "",
+  "mensa" : { "primo" : "Crema di verdure con riso",
+               "secondo" : "Merluzzo gratinato",
+               "contorno" : "Patate al forno" },
+  "compiti" : {		
+ 	
+ }}
 
  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
