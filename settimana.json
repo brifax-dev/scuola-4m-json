@@ -5,7 +5,7 @@
                "contorno" : "Insalata di pomodori" },
   "compiti" : { "italiano" : {"comando" : "Descrivere il mio momento inatteso sul quaderno",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg"}
-				},
+				}},
 "martedì" : {"giorno"   : "22/09/2026",
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Riso con carote e zucchine o",
