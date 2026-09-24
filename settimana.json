@@ -31,7 +31,8 @@
   "mensa" : { "primo" : "Crema di verdure con riso",
                "secondo" : "Merluzzo gratinato",
                "contorno" : "Patate al forno" },
-  "compiti" : {		
+  "compiti" : {	"italiano" : {"comando" : "Ricerca sui troll",
+               "immagini" : ""}	
  	
  }}
 }
