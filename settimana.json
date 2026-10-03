@@ -34,7 +34,8 @@
   "mensa" : { "primo" : "Pasta integrale e patate",
                "secondo" : "Crocchette di ricotta",
                "contorno" : "Spinaci all'olio" },
-  "compiti" : {	
+  "compiti" : {	"scienze" : {"comando" : "pagg.6-7",
+               "immagini" : ""}
  	
  }}
 }
