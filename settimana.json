@@ -5,7 +5,7 @@
                "contorno" : "Cavolfiore gratinato" },
   "compiti" : { "italiano" : {"comando" : "Ripetere il verbo parlare e pagg-52-53 del libro di laboratorio",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano4.jpeg"},"matematica" : {"comando" : "Ripetere sul quaderno le potenze e gli angoli",
-               "immagini" : ""}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica2.jpeg"}
 				}},
 "martedì" : {"giorno"   : "06/10/2026",
   "comunicazioni"    : "",
