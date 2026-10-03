@@ -4,7 +4,7 @@
                "secondo" : "Straccetti croccanti di pollo",
                "contorno" : "Cavolfiore gratinato" },
   "compiti" : { "italiano" : {"comando" : "Ripetere il verbo parlare e pagg-52-53 del libro di laboratorio",
-               "immagini" : ""},"matematica" : {"comando" : "Ripetere sul quaderno le potenze e gli angoli",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano4.jpeg"},"matematica" : {"comando" : "Ripetere sul quaderno le potenze e gli angoli",
                "immagini" : ""}
 				}},
 "martedì" : {"giorno"   : "06/10/2026",
@@ -24,7 +24,8 @@
   "mensa" : { "primo" : "Risotto con cuori di carciofi e carote",
                "secondo" : "Hamburger di pesce",
                "contorno" : "Biete all'olio" },
-  "compiti" : {
+  "compiti" : {"geografia" : {"comando" : "pagg.4-5",
+               "immagini" : ""}
 
  }},
 "venerdì" : {"giorno"   : "09/10/2026",
