@@ -12,7 +12,8 @@
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Salmone gratinato",
                "contorno" : "Insalata mista" },
-  "compiti" : {}},
+  "compiti" : {"geografia" : {"comando" : "pagg.4-5",
+               "immagini" : ""}}},
 "mercoledì" : {"giorno"   : "07/10/2026",
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta e legumi",
@@ -25,8 +26,7 @@
   "mensa" : { "primo" : "Risotto con cuori di carciofi e carote",
                "secondo" : "Hamburger di pesce",
                "contorno" : "Biete all'olio" },
-  "compiti" : {"geografia" : {"comando" : "pagg.4-5",
-               "immagini" : ""}
+  "compiti" : {
 
  }},
 "venerdì" : {"giorno"   : "09/10/2026",
