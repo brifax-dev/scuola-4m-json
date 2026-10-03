@@ -35,7 +35,7 @@
                "secondo" : "Crocchette di ricotta",
                "contorno" : "Spinaci all'olio" },
   "compiti" : {	"scienze" : {"comando" : "pagg.6-7",
-               "immagini" : ""}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"}
  	
  }}
 }
