@@ -8,7 +8,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/matematica2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria3.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria4.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria5.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria6.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria7.jpeg"}
 				}},
 "martedì" : {"giorno"   : "06/10/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Portare una tazza da tè in occasione del Mad Hatter Day.",
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Salmone gratinato",
                "contorno" : "Insalata mista" },
