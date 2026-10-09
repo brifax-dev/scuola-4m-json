@@ -3,7 +3,7 @@
   "mensa" : { "primo" : "Riso e piselli verdi",
                "secondo" : "Frittelle di ricotta e zucchine con contorno di fagiolini",
                "contorno" : "Spinaci all'olio" },
-  "compiti" : { "italiano" : {"comando" : "Libro di Letture pag.100 con attività. Quaderno dei laboratori pag.58 con attività (anche pagg.56-57 per chi non le ha finite in classe",
+  "compiti" : { "italiano" : {"comando" : "Libro di Letture pag.100 con attività. Quaderno dei laboratori pag.58 con attività (anche pagg.56-57 per chi non le ha finite in classe)",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano2.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano3.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano4.jpeg"},"geometria" : {"comando" : "Esercizio sul quaderno.",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria1.jpeg"}
 				}},
