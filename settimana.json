@@ -1,5 +1,5 @@
 { "lunedì" : {"giorno"   : "12/10/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Si comincia a mettere il grembiule",
   "mensa" : { "primo" : "Riso e piselli verdi",
                "secondo" : "Frittelle di ricotta e zucchine con contorno di fagiolini",
                "contorno" : "Spinaci all'olio" },
@@ -8,7 +8,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geometria1.jpeg"}
 				}},
 "martedì" : {"giorno"   : "13/10/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Oggi non c'è scuola per l'interruzione della corrente elettrica.",
   "mensa" : { "primo" : "Cavatelli/orecchiette integrati al sugo",
                "secondo" : "Polpette di pesce al forno",
                "contorno" : "Insalata" },
