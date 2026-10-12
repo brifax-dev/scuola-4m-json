@@ -27,8 +27,8 @@
   "mensa" : { "primo" : "Pasta e cannellini con sugo",
                "secondo" : "Frittata con spinaci",
                "contorno" : "Spinaci/cavolfiore all'olio" },
-  "compiti" : {"storia" : {"comando" : "esercizio n.10-12",
-               "immagini" : "Ripassare la linea del tempo e le carte geostoriche, i Sumeri, i Babilonesi e gli Egizi dal libro di quarta."}
+  "compiti" : {"storia" : {"comando" : "Ripassare la linea del tempo e le carte geostoriche, i Sumeri, i Babilonesi e gli Egizi dal libro di quarta.",
+               "immagini" : ""}
  }},
 "venerdì" : {"giorno"   : "16/10/2026",
   "comunicazioni"    : "",
