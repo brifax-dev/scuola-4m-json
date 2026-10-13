@@ -18,7 +18,7 @@
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Passato di verdure con riso",
                "secondo" : "Straccetti di vitello con scaglie di parmigiano",
-               "contorno" : "Patate al forno" },
+               "contorno" : "Verdure miste gratinate al forno" },
   "compiti" : {"strumento" : {"comando" : "PIANOFORTE: ripasso dei brani assegnati. BATTERIA:ritmo sincopato, esercitarsi sul ritmo. CHITARRA: vedi immagine.",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento2.jpeg"},"italiano" : {"comando" : "copio il testo del troll sul quaderno e finisco il lavoro di arte",
                "immagini" : ""}}},
@@ -32,9 +32,9 @@
  }},
 "venerdì" : {"giorno"   : "16/10/2026",
   "comunicazioni"    : "",
-  "mensa" : { "primo" : "Pasta al ragù di pesce",
-               "secondo" : "Robiola o mozzarella o scamorza",
-               "contorno" : "Insalata mista" },
+  "mensa" : { "primo" : " Pasta alla crema di zucca locale e rosmarino",
+               "secondo" : "Crocche e dorate di ceci e patate al forno",
+               "contorno" : "Carote e zucchine sabbiose" },
   "compiti" : {	 }}
 }
 
