@@ -4,9 +4,9 @@
                "secondo" : "Frittata semplice",
                "contorno" : "Insalata" },
   "compiti" : { "italiano" : {"comando" : "Finire l'analisi grammaticale",
-               "immagini" : ""},"geometria" : {"comando" : "Fare una figura con i pentamini",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/grammatica.jpeg"},"geometria" : {"comando" : "Fare una figura con i pentamini",
                "immagini" : ""},"inglese" : {"comando" : "Fare gli esercizi sul quaderno",
-               "immagini" : ""}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese.jpeg"}
 				}},
 "martedì" : {"giorno"   : "20/10/2026",
   "comunicazioni"    : "",
@@ -36,7 +36,7 @@
                "secondo" : "Ricotta o mozzarella o scamorza",
                "contorno" : "Insalata mista" },
   "compiti" : {	"scienze" : {"comando" : "Studiare pagg.8-9",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpg"} }}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"} }}
 }
 
 
