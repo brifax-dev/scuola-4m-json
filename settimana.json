@@ -24,7 +24,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento2.jpeg"}
                }},
 "giovedì" : {"giorno"   : "22/10/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Assemblea dei genitori dalle 17 alle 17 e 30",
   "mensa" : { "primo" : "Pasta integrale e patate",
                "secondo" : "Salmone gratinato",
                "contorno" : "Bietole all'olio" },
