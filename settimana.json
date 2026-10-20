@@ -21,7 +21,8 @@
                "secondo" : "Spezzatino di tacchino",
                "contorno" : "Cavolfiori gratinati" },
   "compiti" : {"strumento" : {"comando" : "PIANOFORTE e VIOLINO: studiare i brani assegnati. BATTERIA: esercitarsi sul nuovo ritmo, ascoltando anche il brano. CHITARRA: vedi immagine.",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento2.jpeg"}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/strumento2.jpeg"},"italiano" : {"comando" : "Lettura con spiegazione orale pagg.108-109",
+               "immagini" : ""} 
                }},
 "giovedì" : {"giorno"   : "22/10/2026",
   "comunicazioni"    : "Assemblea dei genitori dalle 17 alle 17 e 30",
