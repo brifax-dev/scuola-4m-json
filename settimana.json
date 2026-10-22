@@ -37,7 +37,8 @@
                "secondo" : "Ricotta o mozzarella o scamorza",
                "contorno" : "Insalata mista" },
   "compiti" : {	"scienze" : {"comando" : "Studiare pagg.8-9",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"} }}
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"},"italiano" : {"comando" : "Lettura con attività pagg.112-113",
+               "immagini" : ""} }}
 }
 
 
