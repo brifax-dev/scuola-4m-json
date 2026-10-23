@@ -14,7 +14,7 @@
   "compiti" : {"solfeggio" : {"comando" : "esercizio n.15-16",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"}}},
 "mercoledì" : {"giorno"   : "28/10/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Andare a scuola vestiti con maglietta bianca e jeans",
   "mensa" : { "primo" : "Pasta e lenticchie",
                "secondo" : "Tortino di ricotta e spinaci",
                "contorno" : "Insalata" },
@@ -23,7 +23,7 @@
                "immagini" : ""} 
                }},
 "giovedì" : {"giorno"   : "29/10/2026",
-  "comunicazioni"    : "Assemblea dei genitori dalle 17 alle 17 e 30",
+  "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Insalata mista" },
