@@ -12,7 +12,7 @@
                "secondo" : "Bocconcini di pollo",
                "contorno" : "Spinaci al parmigiano" },
   "compiti" : {"solfeggio" : {"comando" : "esercizio n.15-16",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"}}},
+               "immagini" : ""}}},
 "mercoledì" : {"giorno"   : "28/10/2026",
   "comunicazioni"    : "Andare a scuola vestiti con maglietta bianca e jeans",
   "mensa" : { "primo" : "Pasta e lenticchie",
