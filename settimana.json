@@ -29,7 +29,8 @@
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Insalata mista" },
-  "compiti" : {
+  "compiti" : {"motoria" : {"comando" : "Colorare la scheda e imparare le regole del fairplay",
+               "immagini" : ""} 
  }},
 "venerdì" : {"giorno"   : "30/10/2026",
   "comunicazioni"    : "",
