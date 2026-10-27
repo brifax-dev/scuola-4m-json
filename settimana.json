@@ -22,7 +22,8 @@
                "contorno" : "Insalata" },
   "compiti" : {"strumento" : {"comando" : "PIANOFORTE e VIOLINO: studiare i brani assegnati. BATTERIA: esecuzione individuale ,con base musicale, del ritmo studiato la scorsa volta. Per casa: Adelina: esercitarsi sul ritmo della canzone di L. Kravitz 'I'll be waiting', Alex M. eserictarsi sul ritmo della canzone di J Mayer 'Vultures', gli altri esercitarsi sulla base di B. Springsteen 'Cross My heart'. CHITARRA: Ripetere il brano assegnato e imparare bene 'Jingle bells'",
                "immagini" : ""},"geografia" : {"comando" : "Studiare su pagg 18-19 l'Unione Europea e fare la mappa di pag 19 sul quaderno",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpeg"} 
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/geografia2.jpeg"},"italiano" : {"comando" : "Lettura pag.54 con spiegazione orale",
+               "immagini" : ""}
                }},
 "giovedì" : {"giorno"   : "29/10/2026",
   "comunicazioni"    : "",
