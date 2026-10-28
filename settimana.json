@@ -29,7 +29,7 @@
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Merluzzo gratinato alle erbette",
-               "contorno" : "Insalata mista" },
+               "contorno" : "Cavolfiore gratinati" },
   "compiti" : {"motoria" : {"comando" : "Colorare la scheda e imparare le regole del fairplay",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/motoria.jpeg"} 
  }},
@@ -37,7 +37,7 @@
   "comunicazioni"    : "",
   "mensa" : { "primo" : " Pizza margheritao",
                "secondo" : "Ricotta o mozzarella o scamorza",
-               "contorno" : "Cavolfiore gratinati" },
+               "contorno" : "Insalata mista" },
   "compiti" : {	"scienze" : {"comando" : "Studiare pagg.10-11",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"} }}
 }
