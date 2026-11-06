@@ -1,5 +1,10 @@
 {
-  "avviso1": {
+   "avviso1": {
+    "titolo": "Resoconto Spese",
+    "descrizione": "FONDO CASSA: 34,5 €\n\nRICAVI: 96 €\n➢ Residuo 2025/2026: 96 €\n\nSPESE: 51,5 €\n➢ 22/09/2026 - Ulivo UNICEF: 12 €\n➢ 07/10/2025 - Rotolo: 2,5 €\n➢ 20/10/2026 - 2 rotoli: 5 €\n➢ 30/10/2026 - Merenda Halloween: 32 €",
+    "dataScadenza": "08/06/2027"
+  },
+  "avviso2": {
     "titolo": "Calendario scolastico 2026/27",
     "descrizione": "Inizio delle attività didattiche: 14 settembre 2026\n\nTermine delle attività educativo-didattiche:\n➢ Scuola Primaria e Secondaria di 1° Grado: 08 giugno 2027\n➢ Scuola dell’Infanzia: 30 giugno 2027\n\nFestività riconosciute dalla normativa statale:\n➢ Tutte le domeniche;\n➢ 18 settembre Festa del Santo Patrono\n➢ 1 novembre Festa di tutti i Santi;\n➢ 8 dicembre, Immacolata Concezione;\n➢ 25 dicembre, Natale;\n➢ 26 dicembre, S. Stefano;\n➢ 1° gennaio, Capodanno;\n➢ 6 gennaio, Epifania;\n➢ 28 marzo Santa Pasqua\n➢ 29 marzo Lunedì dell’Angelo;\n➢ 25 aprile Festa della Liberazione;\n➢ 1° maggio Festa del Lavoro;\n➢ 2 giugno, Festa della Repubblica\n\nFestività riconosciute dalla Regione:\n➢ 7 dicembre 2026 (ponte);\n➢ dal 23 dicembre 2026 al 06 gennaio 2027 (vacanze natalizie);\n➢ dal 25 marzo 2027 al 30 marzo 2027 (vacanze pasquali).\n\nSospensione delle attività didattiche deliberata dagli Organi Collegiali:\n➢ 8 – 9 - 10 febbraio 2027 (vacanze di carnevale).",
     "dataScadenza": "08/06/2027"
