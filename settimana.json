@@ -4,8 +4,8 @@
                "secondo" : "Frittelle di ceci e zucchine",
                "contorno" : "Spinaci all'olio" },
   "compiti" : { "italiano" : {"comando" : "Sistemare il quaderno per controllo della maestra, Lettura pag.58-59 con attività. Imparare la poesia di Novembre",
-               "immagini" : ""},"inglese" : {"comando" : "Rispondere alle domande sul quaderno e imparare la poesia.",
-               "immagini" : ""},"geometria" : {"comando" : "Studiare sul quaderno (hanno ricopiato da pag.107-108)",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/italiano1.jpeg"},"inglese" : {"comando" : "Rispondere alle domande sul quaderno e imparare la poesia.",
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/inglese2.jpeg"},"geometria" : {"comando" : "Studiare sul quaderno (hanno ricopiato da pag.107-108)",
                "immagini" : ""}
 				}},
 "martedì" : {"giorno"   : "10/11/2026",
