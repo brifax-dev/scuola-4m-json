@@ -34,7 +34,7 @@
   "comunicazioni"    : "",
   "mensa" : { "primo" : " Pasta al ragù di pesce",
                "secondo" : "Robiola o mozzarella o ricotta",
-               "contorno" : "Carote gratinate con mandorle" },
+               "contorno" : "Insalata" },
   "compiti" : {	"scienze" : {"comando" : "Approfondire la pagina 13 sulla postura",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg"} }}
 }
