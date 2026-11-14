@@ -6,7 +6,7 @@
   "compiti" : { "italiano" : {"comando" : "Imparare il testo della canzone 'Non mi avete fatto niente'.",
                "immagini" : ""},"inglese" : {"comando" : "Finire di colorare.",
                "immagini" : ""},"matematica" : {"comando" : "Finire sul quaderno",
-               "immagini" : ""},"storia" : {"comando" : "Ripetere dalle mappe sul quaderno integrando con le pagine 9 e 10 del libro",
+               "immagini" : ""},"storia" : {"comando" : "Ripetere dalle mappe sul quaderno integrando con le pagine 9 e 10 del libro.",
                "immagini" : ""}
 				}},
 "martedì" : {"giorno"   : "17/11/2026",
