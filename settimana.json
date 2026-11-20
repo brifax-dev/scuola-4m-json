@@ -26,7 +26,7 @@
   "mensa" : { "primo" : "Pasta al pomodoro",
                "secondo" : "Merluzzo gratinato alle erbette",
                "contorno" : "Insalata mista" },
-  "compiti" : {"storia" : {"comando" : "Ripetere la pagina 13 sulla postura con gli approfondimenti. Portare i materiali necessarri all'esperimento di pagina 20.",
+  "compiti" : {"storia" : {"comando" : "Fare le domande sul quaderno.",
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/storia1.jpeg"}
  }},
 "venerdì" : {"giorno"   : "27/11/2026",
