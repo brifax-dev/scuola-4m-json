@@ -12,7 +12,7 @@
                "secondo" : "Bocconcini di pollo",
                "contorno" : "Spinaci al parmigiano" },
   "compiti" : {"solfeggio" : {"comando" : "esercizi n.41-42-43",
-               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solgeggio1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"}}},
+               "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio1.jpg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/solfeggio2.jpg"}}},
 "mercoledì" : {"giorno"   : "25/11/2026",
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta e lenticchie",
