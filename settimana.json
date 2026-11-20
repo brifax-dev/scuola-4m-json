@@ -10,7 +10,7 @@
   "comunicazioni"    : "",
   "mensa" : { "primo" : "Pasta al ragù di pesce",
                "secondo" : "Bocconcini di pollo",
-               "contorno" : Spinaci al parmigiano" },
+               "contorno" : "Spinaci al parmigiano" },
   "compiti" : {"solfeggio" : {"comando" : "esercizi n.41-42-43",
                "immagini" : ""}}},
 "mercoledì" : {"giorno"   : "25/11/2026",
