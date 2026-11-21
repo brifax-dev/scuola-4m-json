@@ -7,7 +7,7 @@
                "immagini" : "https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze1.jpeg,https://raw.githubusercontent.com/brifax-dev/scuola-4m-json/main/scienze2.jpeg"}
 				}},
 "martedì" : {"giorno"   : "24/11/2026",
-  "comunicazioni"    : "",
+  "comunicazioni"    : "Portare lo strumento",
   "mensa" : { "primo" : "Pasta integrale con crema di zucca",
                "secondo" : "Polpette di cavallo",
                "contorno" : "Patate al forno" },
